@@ -1,0 +1,883 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An historical account of some things relating to the nature of the English government and the conceptions which our fore-fathers had of it with some inferences thence made for the satisfaction of those who scruple the Oath of allegiance to King William and Queen Mary.</title>
+            <author>Whitby, Daniel, 1638-1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 134 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65708</idno>
+            <idno type="STC">Wing W1729</idno>
+            <idno type="STC">ESTC R8904</idno>
+            <idno type="EEBO-CITATION">11983660</idno>
+            <idno type="OCLC">ocm 11983660</idno>
+            <idno type="VID">51914</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51914)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 523:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An historical account of some things relating to the nature of the English government and the conceptions which our fore-fathers had of it with some inferences thence made for the satisfaction of those who scruple the Oath of allegiance to King William and Queen Mary.</title>
+                  <author>Whitby, Daniel, 1638-1726.</author>
+               </titleStmt>
+               <extent>[7], 60 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Awnsham Churchill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title page title: An historical account of the English government.</note>
+                  <note>Advertisement: prelim. p. [1].</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Constitutional history --  Great Britain.</term>
+               <term>Great Britain --  History --  1066-1687.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:51914:1"/>
+            <head>Books lately printed for <hi>Awnſham Churchil.</hi>
+            </head>
+            <p>THe late Lord <hi>Ruſſel</hi>'s Caſe, written by the Right Honourable <hi>Henry</hi> Lord <hi>de la Mere. fol.</hi>
+            </p>
+            <p>An Hiſtorical Account of making the <hi>Penal Laws</hi> by the <hi>Papiſts</hi> againſt the <hi>Proteſtants,</hi> and by the Proteſtants againſt the Papiſts. By <hi>Sa. Blackerby</hi> Eſq</p>
+            <p>Obedience due to the Preſent King, notwithſtanding our Oaths to the For<g ref="char:EOLhyphen"/>mer. Written by a Divine of the Church of <hi>England. 4<hi rend="sup">to</hi>.</hi>
+            </p>
+            <p>A modeſt Enquiry, Whether St. <hi>Peter</hi> was ever at <hi>Rome,</hi> and Riſhop of that Church. 4<hi rend="sup">o</hi>.</p>
+            <p>The Spirit of <hi>France,</hi> and the <hi>Politick Maxims</hi> of <hi>Lewis</hi> XIV. laid open to the World. 4<hi rend="sup">o</hi>.</p>
+            <p>Memorials of the Manner of Proceedings in Parliament in Paſſing Bills. 8<hi rend="sup">o</hi>.</p>
+            <p>Dr. <hi>Burnet</hi>'s Travels. Several Tracts in two Volumes. 12<hi rend="sup">o</hi>.</p>
+            <p>A Collection of Texts of Scripture, with ſhort Notes upon them: And ſome other Obſervations againſt the Principal <hi>Popiſh Errors.</hi> 12o.</p>
+            <p>Dr. <hi>Daniel Whithy</hi>'s Treatiſe of Worſhip of Images.</p>
+            <p>—Of Communion in one kind.</p>
+            <p>—His Treatiſe of Tradition, in two parts.</p>
+            <p>—His Conſideration for taking the Oaths to King <hi>William</hi> and Queen <hi>Mary.</hi>
+            </p>
+            <p>Dr. <hi>Worthington</hi> of the Reſurtection. 8<hi rend="sup">o</hi>.</p>
+            <p>Mr. <hi>Maſters</hi> of Submiſſion to Divine Providence. 8<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>Foxes</hi> and <hi>Firebrands,</hi> 8<hi rend="sup">o</hi>. <hi>1ſt. 2d.</hi> and <hi>3d.</hi> Parts.</p>
+            <p>Mr. <hi>Bold</hi>'s Sermon on occaſion of the Brief for <hi>Iriſh</hi> Proteſtants.</p>
+            <p>An Anſwer to Biſhop <hi>Lake</hi>'s (late of <hi>Cheſter</hi>) Declaration of his dying in belief of the Doctrine of Paſſive Obedience, <hi>&amp;c.</hi>
+            </p>
+            <p>Sir <hi>William Temple</hi>'s Obſervations on <hi>Holland. 8o.</hi>
+            </p>
+            <p>—Miſcellania. 8o</p>
+            <p>Dr. <hi>Carſwel</hi>'s Aſſize-Sermon at <hi>Abingdon, Auguſt</hi> 6. 1689.</p>
+            <p>Mr. <hi>Selden</hi>'s Table-Talk. <hi>4to.</hi>
+            </p>
+            <p>A Liſt of the preſent Parliament, Lords and Commons.</p>
+            <p>Preſent Caſe ſtated about Allegiance to King <hi>William</hi> and Queen <hi>Mary.</hi>
+            </p>
+            <p>Debates of the late <hi>Oxon</hi> and <hi>Weſtminſter</hi> Parliaments. 8o.</p>
+            <p>Monſieur <hi>Jurieu</hi>'s Accompliſhment of Scripture-Prophecies, compleat. 8o.</p>
+            <p>New Syſtem of the Revelations. 12o.</p>
+            <p>Voyage to <hi>Siam.</hi> 8o.</p>
+            <p>A Letter concerning Toleration, humbly ſubmitted. 4o. ſtitcht.</p>
+            <p>Agreement between the preſent and former Government. 4o.</p>
+            <p>153 Chymical Apboriſms. By a Country Hermite. 12o.</p>
+            <p>Reflections in Vindication of one Archdeacon from the ſcurrilous and groundleſs Invectives againſt him.</p>
+            <p>A Letter to the Author of 200 Queries concerning the Revolution of human Souls.</p>
+            <p>Abridgment of all the Tryals in the two late Reigns. 8o.</p>
+            <p>Two Treatiſes of Government: In the former, the falſe Principles of Sir <hi>R. Filmer</hi> and his party are detected and overthrown. The latter is a Eſſay concerning the true Original Extract and End of Civil Government.</p>
+            <p>A Letter to a Member of Parliament, occaſioned by a Letter to a Member of the Houſe of Commons, concerning the Biſhops lately in the <hi>Tower,</hi> and now under Suſpenſion.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:51914:1"/>
+            <p>An Hiſtorical ACCOUNT OF SOME THINGS Relating to the Nature of the <hi>Engliſh Government,</hi> AND THE CONCEPTIONS Which our <hi>Fore-fathers</hi> had of it.</p>
+            <p>With ſome Inferences thence made for the ſatisfaction of thoſe who ſcruple the <hi>Oath of Allegiance</hi> to KING WILLIAM and QUEEN MARY.</p>
+            <p>LICENS'D, <hi>Decemb.</hi> 19. 1689.</p>
+            <p>
+               <hi>J. FRASER.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Awnſham Churchill</hi> at the <hi>Black Swan</hi> in <hi>Ave-Mary Lane.</hi> MDCXC.</p>
+            <pb facs="tcp:51914:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:51914:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:51914:3"/>
+            <pb facs="tcp:51914:3"/>
+            <head>THE PREFACE.</head>
+            <p>I Would not have the Reader think that I approve of every thing related in this Hiſtorical Account. That which I think my ſelf concerned to make good is this,</p>
+            <p n="1">1. That what I do relate as Hiſtory, is Hiſtorically true, or that it is delivered without fraud, or wil<g ref="char:EOLhyphen"/>ful perverſion of the Authors cited.</p>
+            <p n="2">2. That what I lay as the Founda<g ref="char:EOLhyphen"/>tion of my Inferences is ſufficiently confirmed by what I have delivered in this Hiſtory.</p>
+            <pb facs="tcp:51914:4"/>
+            <p>That may, perhaps, be uſeful for many other ends relating to our Late happy Change, but they are obvious in themſelves, and were not chiefly deſigned by me, and therefore are not mentioned here.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:51914:4"/>
+            <head>THE CONTETNS.</head>
+            <list>
+               <item>
+                  <hi>SECTION I.</hi> THAT from the <hi>Norman</hi> Conqueſt, to this preſent time, there was an Original Com<g ref="char:EOLhyphen"/>pact or Eſtabliſhment of Laws, by which the Kings of <hi>England</hi> were to Govern, and the People to be governed. <hi>Page 1</hi>
+               </item>
+               <item>
+                  <hi>Sect. II.</hi> That they thought it abſolutely neceſſary, that whoſoever would be their King, ſhould make this Compact with them, and be as much obliged by Oath to grant theſe Priviledges to them, as they were to ſwear Allegiance to him. <hi>p. 6</hi>
+               </item>
+               <item>
+                  <hi>Sect. III.</hi> That when the ancient Laws of their Country were wholly violated, they conſtantly com<g ref="char:EOLhyphen"/>plain'd of the Injuſtice of the Action, required the obſervation of them; and when they could not prevail by fair means, they ſought to recover their Right by Arms. Where an account is given
+<pb facs="tcp:51914:5"/>of the Barons Wars for the preſerving of the <hi>Magna Charta,</hi> and the <hi>Charta de Foreſtis. p. 14</hi>
+               </item>
+               <item>
+                  <hi>Sect. IV.</hi> That we find throughout the Hiſtory of our Kings, that their Election, or elſe their Compact with the People, hath generally been conceived a thing proper to ſtrenghen their Title to the Crown, or at the leaſt to ſatisfie their Peo<g ref="char:EOLhyphen"/>ple, <hi>p. 35</hi>
+               </item>
+               <item>
+                  <hi>Sect. V.</hi> That we find mention in Hiſtory of di<g ref="char:EOLhyphen"/>vers Acts of Parliament, or of the Nobles of the Kingdom, continuing the Name and Honour of a King to him, who, by their own confeſſion, had not the immediate Title to the Kingdom, and only proclaiming him, who had the Right by Proximity of Blood, Heir Apparent to the Crown, <hi>p. 40</hi>
+               </item>
+               <item>
+                  <hi>Sect. VI.</hi> The Inferences from the Reſolutions of the beſt Caſuiſts, to prove that the Oath of Allegiance, and of the Coronation, are recipro<g ref="char:EOLhyphen"/>cal; and conſequently that the obligation of the Oath of Allegiance doth ceaſe, when the Origi<g ref="char:EOLhyphen"/>nal Compact is Fundamentally violated, <hi>p. 43</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:51914:5"/>
+            <head>AN HISTORICAL ACCOUNT OF THE ENGLISH GOVERNMENT.</head>
+            <div n="1" type="section">
+               <head>
+                  <hi>SECTION I.</hi> That from the <hi>Norman</hi> Conqueſt, to this preſent time, there was an Original Compact or Eſta<g ref="char:EOLhyphen"/>bliſhment of Laws, by which the Kings of <hi>England</hi> were to Govern, and the People to be governed.</head>
+               <p>I Am apt to think it may be want of due conſideration of the <hi>Hiſtory,</hi> and <hi>Conſtitution</hi> of our <hi>Government,</hi> which makes ſome wor<g ref="char:EOLhyphen"/>thy Perſons of the <hi>Clergy</hi> ſo ſtiff in their re<g ref="char:EOLhyphen"/>fuſal of the <hi>Oath</hi> of <hi>Allegiance</hi> to King <hi>William,</hi> and Queen <hi>Mary.</hi> Now the great miſchief which this unhappy Diviſion may bring upon the <hi>Proteſtant Religion,</hi> both at home and abroad, and the vile Imputations which are caſt on that great Body of the <hi>Clergy</hi> which hath taken this <hi>Oath,</hi> will juſti<g ref="char:EOLhyphen"/>fie our Endeavours to ſet this matter before them
+<pb n="2" facs="tcp:51914:6"/>in the cleareſt light, and to let others know what hath been done by our <hi>Fore-fathers</hi> to ſecure their Laws and Liberties; what <hi>Compacts</hi> they made with their <hi>Kings;</hi> how uneaſie they were under the Violation of them, and what Conceptions they had touching the Nature and Conſtitution of the <hi>Engliſh</hi> Government, and touching the <hi>Al<g ref="char:EOLhyphen"/>legiance</hi> due to their <hi>Prince.</hi> Now in order to theſe things, let it be obſerved,</p>
+               <p>
+                  <hi>Firſt,</hi>
+                  <note place="margin">Ubi Aldredus Archiepiſco<g ref="char:EOLhyphen"/>pus, Wulfunus Wigornienſis Epiſcopus, Cli<g ref="char:EOLhyphen"/>to, Eadgerus Comites, Ead<g ref="char:EOLhyphen"/>winus &amp; Mor<g ref="char:EOLhyphen"/>carus &amp; de Lundoniâ quique Nobiliores, cum multis aliis ad eum venerant, &amp; datis obſidibus illi deditionem fecerunt, fidelitatemque juraverunt, cum quibus &amp; ipſe foedus pepigit. Dunelm p. 195. Flor. Wig p. 635. R. Hov. F. 258.</note> That <hi>Florence</hi> of <hi>Worceſter, Simeon</hi> of <hi>Dur<g ref="char:EOLhyphen"/>ham,</hi> and <hi>R. Hoveden</hi> expreſly ſay, That <hi>William,</hi> called the <hi>Conqueror, made a League, or Compact with the Arch-Biſhops, Biſhops, Earls, and Nobles of the Land, who met him at</hi> Beorcham.</p>
+               <p>
+                  <hi>Secondly,</hi> That the aforeſaid Authors, with <hi>John Brompton,</hi>
+                  <note place="margin">Daniel p. 36.</note> declare, That as the <hi>Biſhops</hi> and <hi>Barons</hi> of the Realm ſwore Fealty to him,<note place="margin">Ipſo Nativita<g ref="char:EOLhyphen"/>tis die ab Al<g ref="char:EOLhyphen"/>dredo Ebora<g ref="char:EOLhyphen"/>cenſium Ar<g ref="char:EOLhyphen"/>chiepiſcopo in Weſtmona<g ref="char:EOLhyphen"/>ſterio conſe<g ref="char:EOLhyphen"/>cratus eſt, ho<g ref="char:EOLhyphen"/>norificè prius, ut idem Archi<g ref="char:EOLhyphen"/>praeſul ab eo exigebat, ante Altare Sancti Petri-Apoſtoli, coram Clero &amp; populo, jure<g ref="char:EOLhyphen"/>jurando promittens ſe velle Dei Sanctas Eccleſias, &amp; earum Rectores defendere, nec<g ref="char:EOLhyphen"/>non &amp; cunctum populum ſibi ſubjectum juſtè, &amp; Regali providentiâ verè regere, re<g ref="char:EOLhyphen"/>ctam legem ſtatuere, &amp; tenere, &amp;c. Flor. Wigorn. p. 634, 635. Dunelm. p. 195. Ho<g ref="char:EOLhyphen"/>ved. F. 258. Chron. Joh. Brompt. p. 962.</note> 
+                  <hi>ſo he reciprocally, being required ſo to do by the Arch-Biſhop of</hi> York, <hi>made his Perſonal Oath before the Altar of St.</hi> Peter <hi>to defend the Holy Church of God, and the Rectors of the ſame, to govern all the People ſubject to him juſtly, to eſtabliſh equal Laws, and to ſee-them duly executed.</hi>
+               </p>
+               <pb n="3" facs="tcp:51914:6"/>
+               <p>And when new Commotions were made by the <hi>Nobility,</hi> and <hi>Clergy,</hi> upon their Submiſſion, and <hi>Oath</hi> of <hi>Allegiance</hi> re-taken, he <hi>himſelf takes his Perſonal Oath again before Archbiſhop</hi> Lanfranc,<note place="margin">Daniel p. 37.</note> 
+                  <hi>and the Lords, for the good of Peace, to obſerve the An<g ref="char:EOLhyphen"/>cient Laws of the Realm,</hi>
+                  <note place="margin">Occurrerunt igitur Angli memorati, ubi poſt multas diſcepratio<g ref="char:EOLhyphen"/>nes, praeſente Archiepiſcopo Lanfranco, Rex, pro bono pacis, juravit, tactis Sacro-ſanctis Evangeliis, bonas &amp; ap<g ref="char:EOLhyphen"/>probatas antiquas Regni leges, quas Sancti &amp; Pii Angliae Reges ejus Antèceſſores, &amp; maximè Edvardus ſtatuit, inviolabiliter obſervare, &amp; ſic pacificati ad propria laeti re<g ref="char:EOLhyphen"/>ceſſerunt. M. Paris in vitâ 23. Monach. p. 30.</note> 
+                  <hi>eſtabliſhed by his Prede<g ref="char:EOLhyphen"/>ceſſors the Kings of</hi> England; <hi>and eſpecially of</hi> Ed<g ref="char:EOLhyphen"/>ward <hi>the Confeſſor; and this ſo pacified the</hi> Engliſh, <hi>that they went joyfully to their own homes.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly, Matthew</hi> of <hi>Weſtminſter</hi> ſaith,<note place="margin">Et ſic revoca<g ref="char:EOLhyphen"/>tis multis An<g ref="char:EOLhyphen"/>glorum Nobi<g ref="char:EOLhyphen"/>libus, foedere cautius cum omnibus con<g ref="char:EOLhyphen"/>firmato, Ebo<g ref="char:EOLhyphen"/>racum, ubi fuit Danorum re<g ref="char:EOLhyphen"/>ceptaculum, potenter cum ibi inventis, expugnavit. A. D. 1069.</note> That when the two Sons of <hi>Swain</hi> came into <hi>England</hi> to fight againſt it, the <hi>Conqueror recalling many of the</hi> Engliſh <hi>Nobles, made a League with them, and by their Aid he overcame the</hi> Danes. And that this League contained the Grant of their Rights and Liberties, or the Laws of their Coun<g ref="char:EOLhyphen"/>try, is evident from what follows in the ſame Hiſtorian, <hi>viz. That the Conqueror being thus ſecu<g ref="char:EOLhyphen"/>red, in many things violated his promiſes, taking from the Churches, and Monaſteries in which they lay the Charters, in which the Nobles of</hi> England. <hi>confided,</hi>
+                  <note place="margin">Jam factus ſe<g ref="char:EOLhyphen"/>curior, in mul<g ref="char:EOLhyphen"/>tis promiſſa violavit, Mo<g ref="char:EOLhyphen"/>naſteria totius Angliae perſcrutari fecit, &amp; pecuniam ſimul cum Chartis, in quarum li<g ref="char:EOLhyphen"/>bertatibus Nobiles Angliae-confidebant, &amp; quas Rex, in arcto poſitus, obſervaturum ſe juraverat, ab Eccleſiis, ubi in ſecuro poſitae erant, auferri praecepit violenter. Ibid. p. 226.</note> 
+                  <hi>and to which he had ſworn when he was in ſtraits.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly, R. Hagulſtadenſis, S. Dunelmenſis, R. Hoveden, M. Paris, Henry</hi> of <hi>Knyghton,</hi> and <hi>W.</hi>
+                  <pb n="4" facs="tcp:51914:7"/>of <hi>Malmsbury</hi> inform us, That <hi>Henry the firſt granted to all the People the Laws of</hi> Edward, <hi>with the emendations which his Father had made of them, ſtrengthning them with his own Oath,</hi>
+                  <note place="margin">Legem R. Ed<g ref="char:EOLhyphen"/>vardi vobis reddo cum aliis emenda<g ref="char:EOLhyphen"/>tionibus, qui<g ref="char:EOLhyphen"/>bus pater me<g ref="char:EOLhyphen"/>us eas emen<g ref="char:EOLhyphen"/>davit conſilio Baronum ſuo<g ref="char:EOLhyphen"/>rum. R. Ha<g ref="char:EOLhyphen"/>gulſt. p. 311. Dunelm. p. 225, 226. Hoved. par. 1. p. 268. M. Paris p. 38. Henr. de Knyght. p. 2374. Malmſ. l. 5. F. 88. Hoc quoque praecipimus, ut omnes habeant, &amp; teneant le<g ref="char:EOLhyphen"/>gem Edvardi Regis in omnibus rebus, adauctis iis quas conſtituimus ad utilitatem An<g ref="char:EOLhyphen"/>glorum. Apud Seld. Annot. ad Eadm. p. 192.</note> 
+                  <hi>and the Oath of all his Nobles, that they might not be eluded;</hi> And <hi>W. Lambard</hi> cites this as one of the Laws of <hi>W.</hi> the <hi>Conqueror. This alſo we command, That all Men have, and keep the Law of King</hi> Edward, <hi>with the additions we have made to them for the benefit of the</hi> Engliſh <hi>Men.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly,</hi>
+                  <note place="margin">Poſtea ad pre<g ref="char:EOLhyphen"/>ces communi<g ref="char:EOLhyphen"/>tatis Anglo<g ref="char:EOLhyphen"/>rum Rex ad<g ref="char:EOLhyphen"/>quievit, qui deprecati ſunt quatenus per<g ref="char:EOLhyphen"/>mitteret ſibi leges propri<g ref="char:EOLhyphen"/>as, &amp; conſue<g ref="char:EOLhyphen"/>tudines antiquas habere in quibus vixerant patres eorum, &amp; ipſi in iis nati &amp; nutriti ſunt; ſc. leges Sancti Edvardi, &amp; ex illo die magna Authoritate veneratae, &amp; per uni<g ref="char:EOLhyphen"/>verſum Regnum corroboratae, &amp; conſervatae ſunt prae caeteris Regni legibus, leges R. Ed<g ref="char:EOLhyphen"/>vardi. Chron. Eccl. Lichfield apud Seld. ibid. p. 171.</note> The <hi>Chronicle</hi> of <hi>Lichfield</hi> doth inform us, That <hi>the whole Community of</hi> England <hi>ſued to the Conqueror that he would permit them to have the proper Laws, and ancient Cuſtoms, in which their Fa<g ref="char:EOLhyphen"/>thers had lived, and under which they were born, and educated,</hi> viz. <hi>The Laws of St.</hi> Edward; <hi>And that the King conſented to their Petition.</hi>
+               </p>
+               <p>
+                  <hi>Sixthly,</hi>
+                  <note place="margin">Attuli mecum de Londoniis leges aequiſſi<g ref="char:EOLhyphen"/>mi R. Edvar<g ref="char:EOLhyphen"/>di quas domi<g ref="char:EOLhyphen"/>nus meus Rex W. Authenti<g ref="char:EOLhyphen"/>cas eſſe, &amp; per<g ref="char:EOLhyphen"/>petuas per totum Regnum Angliae inviolabiliter obſervandas, ſub poenis graviſſimis, pro<g ref="char:EOLhyphen"/>clamârat, &amp; ſuis juſtitiariis commendârat, p. 88.</note> 
+                  <hi>Ingulphus</hi> his <hi>Secretary,</hi> ſaith, That <hi>he, under the ſevereſt penalties, proclaimed, that the Laws of King</hi> Edward <hi>ſhould be perpetual, authentical, and be obſerved inviolably thro' the whole Kingdome of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>and as ſuch he commended them to his Juſtices.</hi>
+               </p>
+               <pb n="5" facs="tcp:51914:7"/>
+               <p>
+                  <hi>Seventhly, R. Hoveden</hi> informs us, That <hi>he com<g ref="char:EOLhyphen"/>manded the Laws of King</hi> Edward <hi>to be obſer<g ref="char:EOLhyphen"/>ved in all things: and that in the fourth year of his Reign, by the Counſel of his Barons,</hi>
+                  <note place="margin">W. Rex, quar<g ref="char:EOLhyphen"/>to Anno Reg<g ref="char:EOLhyphen"/>ni ſui, conſi<g ref="char:EOLhyphen"/>lio Baronum ſuorum, fecit ſummoneri per univerſos conſulatus An<g ref="char:EOLhyphen"/>gliae, Anglos Nobiles, &amp; Sa<g ref="char:EOLhyphen"/>pientes, &amp; ſuâ lege eruditos, ut eorum &amp; jura &amp; conſue<g ref="char:EOLhyphen"/>tudines ab ip<g ref="char:EOLhyphen"/>ſis audiret. E<g ref="char:EOLhyphen"/>lecti igitur de ſingulis totius patriae comitatibus viri duodecim jurejurando confir<g ref="char:EOLhyphen"/>marunt primò ut, quoad poſſent, recto tramite, neque ad dextram ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ad ſiniſtram partem divertentes, legum ſuarum conſuerudinem &amp; Sancita patefacerent. Hoved. par. poſt. F. 343.</note> 
+                  <hi>he made the No<g ref="char:EOLhyphen"/>ble and Wiſe Men of</hi> England <hi>to be ſummoned throughout all the Provinces of</hi> England, <hi>that he might hear from them, who were skilled in their Law, their Rights and Cuſtoms; and that twelve Men were choſen out of every County, who ſwore, to their power, to tread in a right Path, neither turning to the right hand or to the left, and to make known to him the cu<g ref="char:EOLhyphen"/>ſtom, and the eſtabliſhments of their Laws.</hi> And then he adds the very words contained in the <hi>Chronicle</hi> of <hi>Lichfield.</hi>
+               </p>
+               <p>Now all theſe things put together ſeem plainly to conclude an <hi>Original Compact</hi> or Eſtabliſhment of Laws, by which the <hi>Kings</hi> of <hi>England</hi> were to govern, and the <hi>Kingdom</hi> to be governed; and the continuance, and renewal of that Eſtabliſh<g ref="char:EOLhyphen"/>ment by our ſucceeding <hi>Kings,</hi>
+                  <note place="margin">Hiſt. Nov. F. 186. A. 25 H. 8. c. 21.</note> ſuch as <hi>Malmſ<g ref="char:EOLhyphen"/>bury</hi> ſtiles our <hi>Patriae Leges,</hi> and the Statute of <hi>Henry</hi> the Eighth, <hi>the accuſtomed and ancient Laws of this Realm originally eſtabliſhed.</hi>
+               </p>
+               <p>Add to this then that Rule of <hi>Grotius,</hi>
+                  <note place="margin">Succeſſio non eſt titulus Im<g ref="char:EOLhyphen"/>perii, qui Im<g ref="char:EOLhyphen"/>perio formam aſſignat, ſed veteris continuatio, jus enim ab electione coeptum, familiae ſuccedendo con<g ref="char:EOLhyphen"/>tinuatur, quare quantum prima electio tribuit, tantum defert ſucceſſio. De jure Bell &amp; Pac. l. 1. c. 3. Sect. 10.</note> 
+                  <hi>That Succeſſion is not a Title of Empire which gives the form to it, but is only a continuation of the old Ti<g ref="char:EOLhyphen"/>tle.
+<pb n="6" facs="tcp:51914:8"/>The Right begun by the Election of the Family, being continued by Succeſſion.</hi> And thence, with him, we may reaſonably infer, that <hi>Succeſſion only brings down to Kings what the firſt Election gave,</hi> and makes them only <hi>Kings</hi> according to the <hi>Compact,</hi> and with the Conditions agreed on at the firſt admiſſion of their <hi>Progenitors</hi> to the exerciſe of the <hi>Royal Authority.</hi>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>SECT. II.</hi> That they thought it abſolutely neceſſary, that who<g ref="char:EOLhyphen"/>ſoever would be their King, ſhould make this Compact with them, and be as much obliged by Oath to grant theſe Priviledges to them, as they were to ſwear Allegiance to him.</head>
+               <p>
+                  <hi>2dly.</hi> OUR <hi>Kings</hi> well knowing what a Re<g ref="char:EOLhyphen"/>verence the <hi>Community</hi> had for their Laws, found no better means to gain, or to ſe<g ref="char:EOLhyphen"/>cure to themſelves the Crown, and to pacifie the diſcontented Parties, than by fair Promiſes, and Engagements to maintain, or grant to them their Laws.<note place="margin">Cum Regni faſtigia fratri ſuo Roberto praeriperet, coepit tam per ſe, quam per omnes quos poterat, fide, ſacramento<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> 
+                     <hi>Lanfranco</hi> pro<g ref="char:EOLhyphen"/>mittere juſti<g ref="char:EOLhyphen"/>tiam, aequitatem &amp; miſericordiam ſe per totum Regnum, ſi Rex foret, obſervaturum, pacem, libertatem, ſecuritatem Eccleſiarum contra omnes defenſurum. <hi>p.</hi> 13.</note> 
+                  <hi>Eadmerus</hi> informs us concerning <hi>W. Rufus,</hi> that <hi>deſiring to foreſtall his elder Brother</hi> Robert <hi>in getting the Kingdom, he pawned his Faith and Oath, that if they would make him King, he would in all things obſerve Juſtice, Equity, and Mercy throughout his Kingdom, and defend the Peace, Liberty, and Security of the Church againſt all Men.</hi>
+               </p>
+               <pb n="7" facs="tcp:51914:8"/>
+               <p>When his Brother <hi>Robert</hi> was come into <hi>En<g ref="char:EOLhyphen"/>gland</hi> to claim his right, and he had many of the <hi>Nobility</hi> who favoured him, and ſided with him, <hi>W. Rufus</hi> calls the <hi>Normans,</hi> and <hi>Engliſh Nobility</hi> to <hi>London,</hi> &amp; leges ſtatuens,<note place="margin">Pag. 642.</note> 
+                  <hi>and there ſtabliſhing the Laws,</hi> he marched with them againſt his Bro<g ref="char:EOLhyphen"/>ther, ſaith <hi>Florence</hi> of <hi>Worceſter.</hi> He bound them to him, ſaith <hi>M. Paris,</hi> faciles leges promittendo,<note place="margin">Pag. 10.</note> 
+                  <hi>by promiſing them eaſie Laws;</hi> as thoſe of King <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> were by them ſtiled, and accounted. He ſweetned them, ſaith <hi>John Brompton,</hi>
+                  <note place="margin">Pag. 984.</note> 
+                  <hi>by promiſing that he would eſtabliſh</hi> meliores leges quas ſibi vel<g ref="char:EOLhyphen"/>lent eligere, <hi>thoſe more acceptable Laws which they would chuſe.</hi> Now thoſe we know, by their re<g ref="char:EOLhyphen"/>queſt in his <hi>Fathers</hi> days, were <hi>the Laws of</hi> Ed<g ref="char:EOLhyphen"/>ward, and they with the emendations of his <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> were the Laws then eſtabliſhed. Theſe Pro<g ref="char:EOLhyphen"/>miſes he very little regarded after his agreement made with his Brother <hi>Robert;</hi> but falling ſick, at the ſuggeſtion of his <hi>Barons,</hi> he again promiſed to God, ſaith <hi>Radulphus de Diceto,</hi>
+                  <note place="margin">Pag. 490, 491.</note> Rectas leges ſtatuere, <hi>to ſtabliſh right Laws.</hi>
+               </p>
+               <p>
+                  <hi>Henry</hi> the firſt, his Succeſſor, in the beginning of his Reign, ſaith<note n="*" place="margin">Ipfe in prin<g ref="char:EOLhyphen"/>cipio Regni ſui leges juſtas &amp; libertates populo dedit, chartâ conſir<g ref="char:EOLhyphen"/>mavit, ſigillo corroboravit. p. 310.</note> 
+                  <hi>R. Hagulſtadenſis, gave to the People their juſt Laws and Liberties, confirming them with his Charter, and his Seal. Dunelmenſis, R. Hoveden, Florence</hi> of <hi>Worceſter, W.</hi> of <hi>Malmeſ<g ref="char:EOLhyphen"/>bury, M. Paris,</hi> and <hi>Henry</hi> of <hi>Knyghton</hi> ſay, that <hi>on the very day of his</hi>
+                  <note n="†" place="margin">Qui conſe<g ref="char:EOLhyphen"/>crationis ſuae: die — legem Regis Edvardi omnibus in commune reddidit cum illis emendationibus quibus pater ſuus illam emendavit. Dunelm. p. 225, 226. Hoveden p: 1. F. 268. B. Flor. Wigorn. p. 650. W. Malmsbur. F. 88. M. Paris p. 38. H. de Knyghton p. 2374.</note> 
+                  <hi>Conſecration he granted to all his People the Laws of</hi> Edward, <hi>with the emen<g ref="char:EOLhyphen"/>dations which his Father had made of them.</hi>
+                  <pb n="8" facs="tcp:51914:9"/>
+                  <note n="*" place="margin">Pag. 216. B. Chron. p. 997.</note> 
+                  <hi>Henry</hi> of <hi>Huntington,</hi> and <hi>John Brompton</hi> ſay, that <hi>having promiſed a deſirable melioration of the Laws and Cuſtoms, he was conſecrated by</hi> Maurice <hi>Biſhop of London. M. Paris</hi> ſaith moſt expreſly, that<note n="†" place="margin">Henricus — congregato Londoniis cle<g ref="char:EOLhyphen"/>ro Angliae, &amp; populo uni<g ref="char:EOLhyphen"/>verſo, promiſit emendatio<g ref="char:EOLhyphen"/>nem legum quibus oppreſ<g ref="char:EOLhyphen"/>ſa fuerat An<g ref="char:EOLhyphen"/>glia tempore patris ſui, &amp; fratris nuper defuncti, ut animos omni<g ref="char:EOLhyphen"/>um in ſui pro<g ref="char:EOLhyphen"/>motionem ac<g ref="char:EOLhyphen"/>cenderet, &amp; amorem, &amp; ut illum ſuſci<g ref="char:EOLhyphen"/>perent in Re<g ref="char:EOLhyphen"/>gem &amp; Patro<g ref="char:EOLhyphen"/>num. Ad haec clero reſpon<g ref="char:EOLhyphen"/>dente, &amp; Mag<g ref="char:EOLhyphen"/>natibus cun<g ref="char:EOLhyphen"/>ctis, quod ſi animo volente ipſis vellet concedere, &amp; chartâ ſuâ communire illas libertates &amp; conſuetudines antiquas quae floruerunt in Regno tem<g ref="char:EOLhyphen"/>pore Sancti Regis Edwardi, in ipſum conſentirent, &amp; in Regem unanimiter conſecra<g ref="char:EOLhyphen"/>rent. Henrico autem hoc libenter annuente, &amp; ſe id facturum cum juramento affir<g ref="char:EOLhyphen"/>mante, conſecratus eſt in Regem apud Weſtmonaſterium. p. 38.</note> 
+                  <hi>Henry, having aſſembled the Clergy, and all the People of</hi> England, <hi>that he might diſpoſe their minds to the love and the promotion of him, and the taking him for their King, and Patron, promiſed them the emendation of the Laws by which</hi> England <hi>had been oppreſſed in the time of his Brother, and that all the Clergy and Nobility anſwered, That if he would freely grant to them, and confirm by his Char<g ref="char:EOLhyphen"/>ter thoſe Liberties, and ancient Cuſtoms which flou<g ref="char:EOLhyphen"/>riſhed in the time of King</hi> Edward, <hi>they would una<g ref="char:EOLhyphen"/>nimouſly conſent to receive him for their King; and that upon his Conſent, and Oath to do ſo, he was crea<g ref="char:EOLhyphen"/>ted King at</hi> Weſtminſter. And when his Bro<g ref="char:EOLhyphen"/>ther <hi>Robert</hi> came to challenge the <hi>Crown</hi> as his by right of Succeſſion, and the Concord made be<g ref="char:EOLhyphen"/>twixt him and his Brother <hi>Rufus,</hi> to animate his Subjects to ſtand by him, he ſpeaks thus to them,<note n="*" place="bottom">Ego vero Rex humilis &amp; pacificus vos in pace in antiquis veſtris libertatibus prout crebrius jurejurando promiſi geſtio confovere — omnia videlicet quae ſanctus Rex Ed<g ref="char:EOLhyphen"/>vardus, Deo inſpirante, providè ſancivit, inviolabiliter jubeo obſervari. Ibid. p. 42.</note> 
+                  <hi>I your mild King am deſirous to preſerve you in your Ancient Liberties, as I have often promiſed up<g ref="char:EOLhyphen"/>on Oath,— And command all things to be inviola<g ref="char:EOLhyphen"/>bly obſerved which holy King</hi> Edward, <hi>by the In<g ref="char:EOLhyphen"/>ſpiration of God, adviſedly eſtabliſhed.</hi>
+               </p>
+               <pb n="9" facs="tcp:51914:9"/>
+               <p>
+                  <hi>Steven</hi> ſucceeded him, and he, to get the Kingdom,<note place="margin">
+                     <p>Melioratio<g ref="char:EOLhyphen"/>nem legum promiſit juxta voluntatem &amp; arbitrium ſin<g ref="char:EOLhyphen"/>gulorum M. Paris p. 51. R. Hagulſtad. p. 314, 315. Chron. Jo. Brompt. p. 1024.</p>
+                     <p>Bonas leges, &amp; antiquas &amp; juſtas conſuetudines in Hundris &amp; Placitis &amp; aliis Cau<g ref="char:EOLhyphen"/>ſis obſervabo. Rich. Hagulſtad. p. 314.</p>
+                     <p>Confirmavit Pacta quae Deo &amp; populo atque Eccleſiae Sanctae in die Coronationis ſuae conceſſerat Matth. Paris p. 51.</p>
+                  </note> 
+                  <hi>promiſeth a Melioration of their Laws according to their minds.</hi> Our Hiſtorians tell us, That <hi>on the day of his Coronation he made a Com<g ref="char:EOLhyphen"/>pact with his Church and People, which afterwards at</hi> Oxford <hi>he ſwore to obſerve.</hi> And one of the terms of this Compact was, <hi>That he would ob<g ref="char:EOLhyphen"/>ſerve good Laws, and ancient and juſt Cuſtoms in Hundreds, and Pleas, and other Cauſes.</hi>
+               </p>
+               <p>
+                  <hi>Henry</hi> the Second follows him, at the begin<g ref="char:EOLhyphen"/>ning of his <hi>Reign, eſtabliſhing Peace in his King<g ref="char:EOLhyphen"/>dom, and commanding the Laws of</hi> Henry <hi>the Firſt,</hi>
+                  <note place="margin">Ipſe pacem ſtabilivit in Regno, &amp; le<g ref="char:EOLhyphen"/>ges Henr. Avi ſui praecepit per totum Regnum ſuum inviolabiliter teneri. Hoved. par. 2. F. 281. B.</note> 
+                  <hi>his Grand-father, to be inviolably obſerved throughout his Kingdom.</hi>
+               </p>
+               <p>
+                  <hi>Richard</hi> the firſt, ſucceeds him, and <hi>promiſeth upon Oath at his Coronation theſe three things,</hi> viz. 1. <hi>That he would give Peace, Honour,</hi>
+                  <note place="margin">Juravit quod ipſe omnibus diebus vitae ſuae pacem, &amp; honorem, &amp; Reverentiam Deo, &amp; Sanctae Eccleſiae, &amp; ejus ordinatis portaret. 2<hi rend="sup">o</hi>. Quod rectam juſtitiam, &amp; aequitatem ex<g ref="char:EOLhyphen"/>erceret in populo ſibi commiſſo. 3<hi rend="sup">o</hi>. Quod malas leges &amp; conſuetudines per<g ref="char:EOLhyphen"/>verſas, ſi quae in Regno ſuo inductae ſunt, deleret, &amp; bonas leges conderet, &amp; ſine frau<g ref="char:EOLhyphen"/>de &amp; malo ingenio, eas cuſtodiret. Hoveden. F. 374. A. M. Paris p. 108. Rad. de Diceto Imag. Hiſt. p. 647. Chron. Joh. Brompt. p. 1157.</note> 
+                  <hi>and Reve<g ref="char:EOLhyphen"/>rence to God, and the Church, and her Clergy all the days of his life.</hi> 2ly, <hi>That he would exerciſe true Juſtice and Equity to the People committed to his Government.</hi> 3ly, <hi>That he would put away all
+<pb n="10" facs="tcp:51914:10"/>evil Laws, and perverſe Cuſtoms, which were in<g ref="char:EOLhyphen"/>troduced into his Kingdom, and would make good Laws, and maintain them without fraud and evil inclination.</hi>
+                  <note place="margin">Conjuratus eſt ab Archi<g ref="char:EOLhyphen"/>epiſcopo ex parte Dei, &amp; prohibitus ne hunc hono<g ref="char:EOLhyphen"/>rem accipe<g ref="char:EOLhyphen"/>ret, niſi in mente habeat Sacramenta tenere quae fecit; &amp; ipſe reſpondit ſe, per auxilium Dei, bona fide ob<g ref="char:EOLhyphen"/>ſervaturum omnia ſupra dicta. Ibid.</note> Then the Archbiſhop of <hi>Canterbury conjures him by God not to take upon him this Ho<g ref="char:EOLhyphen"/>nour, unleſs he uprightly intended to perform what he had ſworn;</hi> and when he anſwered, <hi>That by the help of God he intended ſo to do,</hi> the Arch<g ref="char:EOLhyphen"/>biſhop puts the Crown upon his Head.</p>
+               <p>King <hi>John, at his entrance on the Government,</hi> took the ſame Oaths for ſubſtance which his predeceſſor <hi>Richard</hi> had done, ſwearing <hi>to pre<g ref="char:EOLhyphen"/>ſerve the Church and her Dignities from harm; to aboliſh unjuſt Laws, and to eſtabliſh Good, and to exerciſe right Juſtice;</hi> and he was alſo by the Archbiſhop <hi>conjured not to take upon him the Kingly Honour,</hi>
+                  <note place="margin">
+                     <p>In coronati<g ref="char:EOLhyphen"/>one ſuâ R. Johannes tri<g ref="char:EOLhyphen"/>plici involu<g ref="char:EOLhyphen"/>tus eſt Sacra<g ref="char:EOLhyphen"/>mento, viz. quod Sanctam Eccleſiam, &amp; ejus ordina<g ref="char:EOLhyphen"/>tos diligeret quod perver<g ref="char:EOLhyphen"/>ſis legibus deſtructis, bo<g ref="char:EOLhyphen"/>nas conſtitue<g ref="char:EOLhyphen"/>rer, &amp; rectam juſtitiam in Regno Angliae exerceret, deinde adjuratus eſt ab Archi<g ref="char:EOLhyphen"/>epiſcopo ex parte Dei, &amp; diſtrictè prohibitus ne honorem hunc accipere praeſume<g ref="char:EOLhyphen"/>ret niſi in mente habuit opere quod juraverat adimplere. Chron. Burton p. 256. R. Hoveden F. 450. M. Paris p. 138.</p>
+                     <p>Audiſtis quomodo ipſe apud Wintoniam Regem abſolvi, &amp; ipſum jurare compu<g ref="char:EOLhyphen"/>lerim quod leges iniquas deſtrueret, &amp; leges bonas, viz. leges Edvardi; revocaret, &amp; in Regno faceret ab omnibus obſervari. M. Paris p. 166, 167.</p>
+                  </note> 
+                  <hi>unleſs he really intended to per<g ref="char:EOLhyphen"/>form his Oath.</hi> When he was abſolved from his <hi>Excommunication</hi> by the Archbiſhop at <hi>Winche<g ref="char:EOLhyphen"/>ſter,</hi> he was by him compelled to ſwear, <hi>That he would deſtroy all unjuſt Laws, and would re<g ref="char:EOLhyphen"/>ſtore good Laws,</hi> viz. <hi>The Laws of King</hi> Edward, <hi>and cauſe them to be obſerved of all throughout his Kingdom.</hi>
+               </p>
+               <pb n="11" facs="tcp:51914:10"/>
+               <p>King <hi>Henry</hi> the Third was but nine years old when he ſucceeded King <hi>John,</hi>
+                  <note place="margin">Annales Mon. Burton p. 271, 276.</note> and in the ninth year of his <hi>Reign</hi> he granted to all his <hi>Clergy,</hi> his <hi>Nobles,</hi> and his People, his <hi>Magna Charta, and his Charter of the Liberties of the Foreſt;</hi> and by theſe Charters he confirms to them <hi>libertates &amp; liberas conſuetudines quas prius habuerant, the Liberties and free Cuſtoms which they had before. M. Paris</hi> ſaith,<note place="margin">Pag. 274.</note> 
+                  <hi>That he exacted the fifteenth part of the Moveables, both of the Clergy, and of the Laity, and that they promiſed to grant them,</hi> ſi illi diu petitas Libertates concedere voluiſſet,<note place="margin">Pag. 223.</note> 
+                  <hi>provided he would give them the Liberties they had ſo long deſired; And that accordingly he gave them theſe two Char<g ref="char:EOLhyphen"/>ters, which were the ſame that had been granted by King</hi> John.<note place="margin">A. D. 1223. Speed p. 581.</note> The Barons requiring a confirma<g ref="char:EOLhyphen"/>tion of theſe Liberties from the King, <hi>William Briwere,</hi> one of the King's Council, anſwered, <hi>That the Liberties which they demanded were not to be obſerved, becauſe they were violently extorted;</hi> the King replied, <hi>All of us have ſworn to theſe Liberties, and that which we have ſworn, all of us are bound to obſerve;</hi> and the truth is, at the con<g ref="char:EOLhyphen"/>cluſion of the Peace with <hi>Lewis</hi> the King,<note place="margin">Speed p. 578.</note> the Legate, and Earl Marſhal <hi>ſware that the King ſhould reſtore to the Barons, and others, all their Rights and Inheritances, with all the Liberties formerly demanded of his Father.</hi>
+                  <note place="margin">Speed p. 583</note> And in the year 1225. the King again drawn with the de<g ref="char:EOLhyphen"/>ſire of Mony, <hi>grants thoſe his Charters under his Seal, and Oaths were taken by Royal commandment to tye all Men to the obſervation of the ſaid grants.</hi>
+               </p>
+               <p>
+                  <hi>Edward</hi> the firſt was declared King, and Suc<g ref="char:EOLhyphen"/>ceſſor of his Father when abſent in <hi>Paleſtine,</hi> and
+<pb n="12" facs="tcp:51914:11"/>returning into <hi>England,</hi> is Crowned in the Se<g ref="char:EOLhyphen"/>cond year of his Reign, and in the Third calls a Parliament at <hi>Weſtminſter,</hi> where he hears the complaints of the ill Government of the Realm, and the Church, and makes that wholſome Statute to relieve them which is called <hi>the firſt Statute of Weſtminſter.</hi>
+               </p>
+               <p>At the Coronation of <hi>Edward</hi> the Second, the Earls and Barons of the Kingdom of <hi>England</hi> treated of the State of the Kingdom, requeſting the Baniſhment of <hi>Peter</hi> of <hi>Gaveſton</hi> from the Kingdom, and that <hi>Baronum ſuorum vellet conſi<g ref="char:EOLhyphen"/>liis tractare Regni negotia,</hi>
+                  <note place="margin">Hypadygm. Neuſtr p. 500.</note> 
+                  <hi>he would tranſact the buſineſs of the Kingdom by the Councils of his Ba<g ref="char:EOLhyphen"/>rons; which the King denying to grant,</hi>
+                  <note place="margin">Rex noluit conſentire, id<g ref="char:EOLhyphen"/>circo propo<g ref="char:EOLhyphen"/>ſuerunt comi<g ref="char:EOLhyphen"/>tes Corona<g ref="char:EOLhyphen"/>tionem Regi<g ref="char:EOLhyphen"/>am impedire, quod Rex intelligens promiſit bona fide ſe facturum illis in proximo Parliamento quicquid peterent, tantum ne Coronatio differatur. Walfingh. Hiſt. Angl. p. 96.</note> 
+                  <hi>the Nobles endeavoured to hinder his Coronation; which the King underſtanding, promiſed faithfully, in the next Parliament, to do that which they deſired.</hi>
+               </p>
+               <p>At the Coronation of <hi>Richard</hi> the Second, one <hi>of the Biſhops makes an Oration to the People con<g ref="char:EOLhyphen"/>cerning the Conſtitution of the King and Kingdom,</hi>
+                  <note place="margin">Tunc Epiſco<g ref="char:EOLhyphen"/>pus Sermo<g ref="char:EOLhyphen"/>nem fecit de materiâ Re<g ref="char:EOLhyphen"/>gis, &amp; Regni ad populum, qualiter Rex ſe haberet in populo, &amp; in quibus populus ſibi debuit obedire, quo completo juravit Rex, coram Archiepiſcopo &amp; proceribus, quod Eccleſiam ſuis permitteret gaudere libertatibus, &amp; eam, &amp; Mi<g ref="char:EOLhyphen"/>niſtros ejus honoratret. 2<hi rend="sup">o</hi>. Ut leges terrae bonas ubique obſervari faceret, &amp; prae<g ref="char:EOLhyphen"/>cipuè leges Sancti Edvardi. 3<hi rend="sup">o</hi>. Ut non eſſet perſonarum acceptor, &amp;c. quibus ex<g ref="char:EOLhyphen"/>pletis Archiepiſcopus convertit ſe ad omnes plagas Eccleſiae, indicans populo Re<g ref="char:EOLhyphen"/>gium juramentum, &amp; quaerens ſi ſe tali principi, &amp; Rectori ſubjicere, &amp; ejus juſſio<g ref="char:EOLhyphen"/>nibus obtemperare vellent; &amp; reſponſum eſt à plebe — quod libenter ſibi parere vellent. Walſ. Hiſt. Angl. p. 195.</note> 
+                  <hi>how the King ſhould behave himſelf to them, and in what things they were to obey him: this being done, the King ſwears before the Archbiſhop and Nobles, that he would permit the Church to enjoy her Liber<g ref="char:EOLhyphen"/>ties,
+<pb n="13" facs="tcp:51914:11"/>and would honour her and her Miniſters.</hi> 2dly, <hi>That he would cauſe the good Laws of the Land to be obſerved every where, eſpecially thoſe of St.</hi> Ed<g ref="char:EOLhyphen"/>ward. 3dly, <hi>That he would be no acceptor of Per<g ref="char:EOLhyphen"/>ſons, but would exerciſe right Judgment between man and man, and eſpecially would ſhew Mercy. This being done, the Archbiſhop, the Marſhal being preſent, turns himſelf to all the quarters of the Church, decla<g ref="char:EOLhyphen"/>ring to the People the Kings Oath, and asking them, if they could ſubject themſelves to ſuch a Prince and Governour, and would obey his commands; to which they all anſwered, That they would willingly do it.</hi>
+               </p>
+               <p>Here then you ſee that <hi>William Rufus, Henry</hi> the Firſt, and <hi>Steven,</hi> get the conſent of the Peo<g ref="char:EOLhyphen"/>ple by virtue of this promiſe <hi>to grant them their uſual Laws, and ancient Cuſtoms,</hi> that <hi>Henry</hi> the Firſt, <hi>Richard</hi> the Firſt, and King <hi>John,</hi> and <hi>Rich<g ref="char:EOLhyphen"/>ard</hi> the Second at their Coronation oblige them<g ref="char:EOLhyphen"/>ſelves by Oath to grant them; And upon theſe Obligations the People, Nobles, Biſhops, and Com<g ref="char:EOLhyphen"/>mons conſent to own them as their King, that the Archbiſhops conjure <hi>R.</hi> the Firſt, and K. <hi>John,</hi> not to take upon them the Crown, unleſs they uprightly intended to perform theſe Oaths; that all of them at the beginning of their Reigns by Oaths, or Promiſes oblige themſelves to grant theſe Laws and Cuſtoms to the People, and that if any ſcrupled ſo to do, the Nobles thought it their con<g ref="char:EOLhyphen"/>cern to hinder his Coronation, till he had either made, or promiſed this engagement</p>
+               <p>They therefore thought it abſolutely neceſſary, that whoſoever would be their King, ſhould make this Compact with them, and be as much engaged by Oath to grant theſe Priviledges to them, as
+<pb n="14" facs="tcp:51914:12"/>they were to ſwear Allegiance to him, and com<g ref="char:EOLhyphen"/>monly that this ſhould be firſt done by their Kings before they would engage to be their Subjects. And then it muſt be as neceſſary that he who doth continue to be their King ſhould continue to per<g ref="char:EOLhyphen"/>form his Oaths, and grant theſe Priviledges to his People.</p>
+            </div>
+            <div n="3" type="section">
+               <head>
+                  <hi>SECT. III.</hi> That when the ancient Laws of their Country were wholly violated, they conſtantly complain'd of the Injuſtice of the Action, required the obſervation of them; and when they could not prevail by fair means, they ſought to recover their Right by Arms. Where an account is given of the Barons Wars for the preſerving of the <hi>Magna Charta,</hi> and the <hi>Charta de Foreſtis.</hi>
+               </head>
+               <p>FOR farther evidence of this matter, let it be conſidered,</p>
+               <p n="3">
+                  <hi>3dly,</hi> That when theſe <hi>Patriae Leges,</hi> theſe <hi>Anci<g ref="char:EOLhyphen"/>cient Laws of their Country</hi> were violated, they con<g ref="char:EOLhyphen"/>ſtantly complained of the Injuſtice of the Action, required the obſervation of them; and when they could not prevail by fair means, they revolted from their Subjection, and ſought to recover their Right by Arms. This they require of <hi>W. Rufus,</hi> when he was ſick: And it was probably for neg<g ref="char:EOLhyphen"/>lect of theſe good Laws, that <hi>moſt of the Nobili<g ref="char:EOLhyphen"/>ty,</hi> ſaith <hi>M. Paris,</hi>
+                  <note place="margin">Page 10.</note> did <hi>una Rabie conſpirare, conſpire againſt him with one fury.</hi> For the ſame reaſon was
+<pb n="15" facs="tcp:51914:12"/>it, that when <hi>Robert</hi> came againſt King <hi>Henry</hi> the Firſt, a great part of the Navy went over to <hi>Robert,</hi> for this they did, ſaith <hi>M. Paris, quia Rex jam Ty<g ref="char:EOLhyphen"/>rannizaverat, becauſe the King was become a Tyrant,</hi>
+                  <note place="margin">Page 40.</note> i. e. he governed not according to Law.</p>
+               <p>When <hi>Steven</hi> Archbiſhop of <hi>Canterbury</hi> in the year 1213,<note place="margin">Per quam, ſi volueritis, li<g ref="char:EOLhyphen"/>bertates diu amiſſas pote<g ref="char:EOLhyphen"/>ritis ad ſtatum priſtinum re<g ref="char:EOLhyphen"/>vocare. M. Paris p. 167.</note> had found the <hi>Charter</hi> of <hi>Henry the Firſt,</hi> by which <hi>he granted to them the Law of King</hi> Edward, <hi>with thoſe emendations which his Father, by the Counſel of the Barons, did ratifie,</hi> he told the Nobles <hi>this was the Charter, by which, if they pleaſed, they might reduce their long lost Liberties into their former ſtate;</hi> The <hi>Charter</hi> being read, <hi>they much re<g ref="char:EOLhyphen"/>joyced,</hi>
+                  <note place="margin">A rchiepiſco<g ref="char:EOLhyphen"/>pus vero pro<g ref="char:EOLhyphen"/>miſit eis fide<g ref="char:EOLhyphen"/>liſſimum auxi<g ref="char:EOLhyphen"/>lium ſuum pro poſſe ſuo, &amp; ſic confoe<g ref="char:EOLhyphen"/>deratione fa<g ref="char:EOLhyphen"/>cta inter eos, colloquium ſolutum eſt. M. Paris ibid.</note> 
+                  <hi>and ſwore, in the preſence of the Archbiſhop, that when they could ſpy out a fit time, for thoſe Li<g ref="char:EOLhyphen"/>berties, if need required, they would ſpend their blood; the Archbiſhop, on the other ſide, promiſed to help them to the uttermoſt of his power,</hi> and ſo, <hi>ha<g ref="char:EOLhyphen"/>ving made a League among themſelves, they diſſolved the Aſſembly.</hi>
+               </p>
+               <p>When King <hi>John</hi> ſtill neglected to obſerve theſe Laws, <hi>the Nobles come unto him, requiring him to confirm the Liberties and Laws of King</hi> Edward, <hi>and other Liberties granted to him, the Kingdom,</hi>
+                  <note place="margin">
+                     <p>Petierunt quaſdam li<g ref="char:EOLhyphen"/>bertates, &amp; le<g ref="char:EOLhyphen"/>ges R. Edvar<g ref="char:EOLhyphen"/>di, cum aliis libertatibus ſibi, &amp; Regno. Angliae, &amp; Ec<g ref="char:EOLhyphen"/>cleſiae Angli<g ref="char:EOLhyphen"/>canae conceſſis, confirmari. M. Paris p. 176.</p>
+                     <p>Capitula libertatum &amp; legum quae ibi magnates confirmari quaerebant partim in Charta R. Henrici ſuperius ſcripta ſunt, partim<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ex legibus R. Edvardi antiquitus ex<g ref="char:EOLhyphen"/>cerpta— affirmantes quod, niſi Rex illas incontinenti concederet, &amp; ſigilli munimine confirmaret, ipſi per captionem caſtrorum ſuorum, terrarum, &amp; poſſeſſionum, ipſum <hi>Regem compellerent,</hi> donec ſuper praemiſſis ſatisfaceret competenter. M. Paris p. 176.</p>
+                  </note> 
+                  <hi>and the Church of</hi> England, they being <hi>leges Anti<g ref="char:EOLhyphen"/>quae, &amp; Regni conſuetudines; the Ancient Laws and Cuſtoms of the Kingdom, contained partly in the</hi> Charter <hi>of</hi> Henry <hi>the Firſt, and partly gathered out of the old Laws of King</hi> Edward, <hi>threatning that
+<pb n="16" facs="tcp:51914:13"/>if he would not inſtantly grant them, and confirm them under his Seal, they would compel him ſo to do, by ſeizing on his Caſtles, Lands, and Poſſeſſions, till he gave them competent ſatisfaction in that matter.</hi> Then the Archbiſhop ſhewed the King the Con<g ref="char:EOLhyphen"/>tents of that <hi>Charter;</hi>
+                  <note place="margin">Quod nun<g ref="char:EOLhyphen"/>quam tales libertates con<g ref="char:EOLhyphen"/>cederet unde ipſe efficere<g ref="char:EOLhyphen"/>tur ſervus, &amp; quare cum iſtis iniquis exactionibus Barones non poſtulant Re<g ref="char:EOLhyphen"/>gnum. ibid.</note> and upon the Kings anſwer, that <hi>he would never grant ſuch Liberties by which he himſelf was made a ſervant; and that the Barons might as well ask the Kingdom,</hi> they betake them<g ref="char:EOLhyphen"/>ſelves to War, and the Barons having got the Ci<g ref="char:EOLhyphen"/>ty of <hi>London</hi> on their ſide, <hi>they write Letters to all the Earls, Barons, and Knights who adhered to the</hi> King, <hi>exhorting them, with threats, that as they loved the Indemnity of all their Goods, Poſſeſſions, deſerting the perjured</hi> King, <hi>they would adhere to them faithfully, and ſtand immoveably with them, fighting for the Liberties,</hi>
+                  <note place="margin">Miſerunt li<g ref="char:EOLhyphen"/>teras ad co<g ref="char:EOLhyphen"/>mites, Baro<g ref="char:EOLhyphen"/>nes, &amp; milites illos qui adhuc per Angliam Regi, licet fide, adhaerere videbantur, ex<g ref="char:EOLhyphen"/>hortantes eos, cum comminatione, ut, ſicut omnium Rerum ſuarum &amp; poſſeſſionum indemnitatem diligebant, <hi>Regem perjurum deſerentes,</hi> &amp; ſibi fideliter adhaerentes, ſimul cum eis pro libertatibus, &amp; pace Regni immobiles ſtarent, &amp; efficaciter decerta<g ref="char:EOLhyphen"/>rent. M. Paris p. 177.</note> 
+                  <hi>and ſtand immoveably with them, fighting for the Liberties, and Peace of the Kingdom.</hi>
+               </p>
+               <p>Whereupon the King, finding that he was not able to reſiſt the ſtrength of the Barons,<note place="margin">In ejus tem<g ref="char:EOLhyphen"/>pore fuerunt proviſi Arti<g ref="char:EOLhyphen"/>culi M. Chartae ad commu<g ref="char:EOLhyphen"/>nem profe<g ref="char:EOLhyphen"/>ctum Regni. p. 2424.</note> without difficulty grants the Laws and Liberties they de<g ref="char:EOLhyphen"/>manded, and confirmed them by his <hi>Charter.</hi> And thus it was, as <hi>Henry</hi> of <hi>Knyghton</hi> ſaith, that <hi>in his time were procured the Articles of</hi> Magna Charta <hi>to the common good of the Realm.</hi> And when the King, by the inſtigation of ſome <hi>Sons of Belial,</hi> was again perſwaded to fly from his Oath and Promiſe,<note place="margin">Quid faciemus de iſto Rege iniquo, ſi ſic dimiſerimus illum, delebit nos, &amp; populum noſtrum, expedit igitur ut deleatur à ſolio Regni ſui, nolumus enim de caetero eum regnare ſuper nos. Henr. de Knyght. de Event. Angl. p. 2423.</note> the Barons ſpake thus to another, <hi>What ſhall we do
+<pb n="17" facs="tcp:51914:13"/>with this wicked King? if we let him thus alone, he will deſtroy us, and our People; it is expedient there<g ref="char:EOLhyphen"/>fore, that he ſhould be expelled from the Throne, we will not have him any longer to Reign over us.</hi> And thereupon they ſend preſently to <hi>Lewis</hi> the Son of the <hi>French</hi> King to come to their aſſiſtance, pro<g ref="char:EOLhyphen"/>miſing him the City of <hi>London,</hi> and their Allegiance to him. And though the <hi>Pope</hi> ſent his <hi>Bull,</hi> by which he made void this <hi>Charter</hi> of the Liberties of the Kingdom of <hi>England,</hi> and writ a threat<g ref="char:EOLhyphen"/>ning Letter to the Barons of <hi>England</hi> upon that affair. Notwithſtanding all his threats, <hi>noluerunt deſiſtere ab incaeptis,</hi>
+                  <note place="margin">M. Paris p. 186.</note> 
+                  <hi>the Barons would not deſiſt from their <g ref="char:V">Ʋ</g>ndertakings,</hi> but riſing up ſtill againſt him, they vehemently annoyed him, ſaying; con<g ref="char:EOLhyphen"/>cerning the Pope, that of the Prophet, <hi>Wo to him that juſtifies the wicked.</hi> And when the Pope proceeded to Excommunicate the Barons by name, and in particular, neither would the Barons obſerve,<note place="margin">Pag. 192. Inſurrexerunt in eum Magna<g ref="char:EOLhyphen"/>tes duplici ne<g ref="char:EOLhyphen"/>ceſſitate co<g ref="char:EOLhyphen"/>acti, eo quod noluit permit<g ref="char:EOLhyphen"/>tere leges Sancti Ed<g ref="char:EOLhyphen"/>wardi teneri, ſed omnia fe<g ref="char:EOLhyphen"/>cit in ſuo vel<g ref="char:EOLhyphen"/>le, nec voluit legis formam obſerware. Henr. de Knyghton p. 2418.</note> nor the Prelates publiſh the <hi>Excommunication.</hi> And what the judgment of the generality of this Na<g ref="char:EOLhyphen"/>tion was of the whole War, we may learn not only from the general engagement both of the <hi>Laity</hi> and <hi>Clergy</hi> in it, but alſo from our own <hi>Hiſtorians;</hi> for they inform us, That our Nobles <hi>were forced to make this War out of a double neceſ<g ref="char:EOLhyphen"/>ſity, becauſe he would not permit the Laws of St.</hi> Ed<g ref="char:EOLhyphen"/>ward <hi>to be kept, as formerly they were wont to be, but did all things by his own will, nor would obſerve the form of the Law; but diſinherited his Nobles without the judgment of their Peers.</hi>
+               </p>
+               <p>To this effect I find, according to the cuſtom of thoſe times, a long Rhyme in the <hi>Chronicle</hi> of <hi>Mailros,</hi> deploring the infelicity of this Affair,
+<pb facs="tcp:51914:14"/>
+                  <hi>That the Body ſhould attempt to rule the Head, and the People to be above their King;</hi> but adding, <hi>that there was a great and manifold neceſſity that it ſhould be ſo, ſeeing the King perverted all the good Cuſtoms of the Kingdom, neither rightly managing Laws, Rights, or Subjects, but making that to be Juſtice which was agreeable to his own will, which moved them to ſwear they would not ſuffer this Ty<g ref="char:EOLhyphen"/>ranny of the King, and to require the Depoſition of him, if he would not conſent to the Reformation of the Law, and to reſign the Homage they had made, till he would give them caution to preſerve the Peace.</hi> And the ſame <hi>Annals</hi> ſay, the Barons only fought <hi>pro legibus priſtinis reſtaurandis, for Reſtaurati<g ref="char:EOLhyphen"/>on of their ancient Laws.</hi> And when the Earl of <hi>Pembroke</hi> made his Oration to the <hi>Aſſembled States</hi> in behalf of <hi>Henry the Third</hi> his Son, he begins it thus,<note n="*" place="margin">Speed p. 575.</note> 
+                  <hi>Albeit the Father of this Prince, for his evil Demeaners, hath worthily undergone our Perſecu<g ref="char:EOLhyphen"/>tion — we ought of Duty and Conſcience, to obey his Son.</hi>
+               </p>
+               <lg>
+                  <l>Ordinem praepoſterum Anglia ſancivit,</l>
+                  <l>Mirum dictu dicitur, tale quis audivit?</l>
+                  <l>Nam praeſſe capiti corpus concupivit;</l>
+                  <l>Regem ſuum regere populus quaeſivit:</l>
+                  <l>Cauſa tamen multiplex illud exigebat,</l>
+                  <l>Nam Rex mores optimos Regni pervertebat,</l>
+                  <l>Jura, leges, ſubditos recte non regebat,</l>
+                  <l>Quicquid erat placitum ſummum jus crede<g ref="char:EOLhyphen"/>bat,</l>
+                  <l>Proprios Indigenas nimis deprimebat,</l>
+                  <l>Barbaros Rutarios illis praeponebat,</l>
+                  <l>Haeredes legitimos obſides perdebat,</l>
+                  <l>Quorum Adventitius terras poſſidebat,</l>
+                  <l>Regis ad colloquium Milites citati</l>
+                  <l>Cautè ſibi praecavent, veniunt armati,</l>
+                  <l>Jurant unanimiter jam ſe nolle pati,</l>
+                  <l>Amplius Tyrannidem Regis tam ingrati.</l>
+                  <l>Die primo veniunt juri parituri:</l>
+                  <l>Rex venire diſtulit nolens ſtare juri,</l>
+                  <l>Diem ponit alterum temporis futuri:</l>
+                  <l>Nec venit, ſed veniunt ipſi coacturi.</l>
+                  <l>Regis ergo poſtulant depoſitionem,</l>
+                  <l>Legis niſi faciat emendationem,</l>
+                  <l>Plenam &amp; exhibeat certam cautionem</l>
+                  <l>Pacis ad perpetuam conſervationem.</l>
+                  <l>Humagium quod fecerant reconſignaverunt,</l>
+                  <l>Et Barones Militum cauſam ſuſceperunt;</l>
+                  <l>Leges tandem priſtinas Regni ſitientes,</l>
+                  <l>Sed in Regem mittere manus non volentes.</l>
+                  <l>Vide Reliqua p. 188.</l>
+               </lg>
+               <pb n="19" facs="tcp:51914:14"/>
+               <p>When <hi>Henry the Third</hi> made <hi>void the Charters of Liberties, and of the Foreſt, pretending they were granted whilſt he was in dureſs, and had not the power of his Body, or of his Seal; the People preſently begin to murmur, and the Barons ſiding with</hi> Rich<g ref="char:EOLhyphen"/>ard <hi>Earl of</hi> Cornwal, <hi>the Kings Brother, with threats requeſt him to do right to his Brother, ſharp<g ref="char:EOLhyphen"/>ly denouncing to him, that he ſhould without delay reſtore the Charters to him ſealed which he had can<g ref="char:EOLhyphen"/>celled at</hi> Oxford;<note place="margin">
+                     <p>In eodem Concilio fecit Rex cancel<g ref="char:EOLhyphen"/>lare, &amp; caſſa<g ref="char:EOLhyphen"/>re omnes Chartas in provinciis omnibus Angliae de libertatibus Foreſtae, hanc occaſionem praetendens quod Chartae illae conceſſae fuerant, &amp; libertates ſcriptae, &amp; ſignatae, dum ipſe erat in cuſtodia, nec ſui corporis, aut ſigilli aliquam habuit poteſtatem. M. Paris p. 232.</p>
+                     <p>Sin autem, ipſi illum gladiis diſcurrentibus compellerent ut ſibi ſuper his ſatisfaceret competenter. M. Paris p. 233.</p>
+                  </note> 
+                  <hi>and if he did not, they would compel him by the Sword to make him competent ſa<g ref="char:EOLhyphen"/>tisfaction in theſe matters.</hi>
+               </p>
+               <p>
+                  <hi>A. D.</hi> 1233. the King invites over the <hi>Poicto<g ref="char:EOLhyphen"/>vins,</hi> and other Strangers, who, with the Biſhop of <hi>Winton</hi> oppreſs the Nobles with all their power, and cauſe great diſcord and complaints; <hi>For judgments were committed,</hi> ſaith <hi>M. Paris,</hi>
+                  <note place="margin">Judicia com<g ref="char:EOLhyphen"/>mittuntur in<g ref="char:EOLhyphen"/>juſtis, leges exlegibus, pax diſcordanti<g ref="char:EOLhyphen"/>bus, juſtitia in<g ref="char:EOLhyphen"/>jurioſis. p. 263.</note> 
+                  <hi>to the unjuſt, the Laws to them who were Outlaw'd, Peace to thoſe who were given to Diſcord, and Juſtice to the Injurious.</hi> Theſe things ſo exaſperate the Nobility, that they Combine for Defence of the publick; and by <hi>Richard</hi> his Brother, and the Earl Marſhal, <hi>humbly requeſt of the King, that he would ſpeedily correct theſe exceſſes which tended to the ſubverſion of his Crown and Kingdom,</hi>
+                  <note place="margin">Regem humi<g ref="char:EOLhyphen"/>liter rogabat, ut tales exceſ<g ref="char:EOLhyphen"/>ſus corrigere feſtinet, per quos Coronae ſuae, &amp; Regni ſubverſio imminebat, affirma<g ref="char:EOLhyphen"/>bat inſuper quod ſi hoc emendare diffugeret, ipſe, &amp; caeteri de Regno Magnates, tamdiu ſe ab ipſius conſilio ſubtraherent, quamdiu alienigenarum conſortio frueretur. M. Paris p. 264.</note> 
+                  <hi>to the op<g ref="char:EOLhyphen"/>preſſion
+<pb facs="tcp:51914:15"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="19" facs="tcp:51914:15"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="20" facs="tcp:51914:16"/>of his natural People, and of their Laws and Liberties, and that if he would not reform them, they would withdraw themſelves from his Coun<g ref="char:EOLhyphen"/>ſel.</hi>
+               </p>
+               <p>Whereunto the Biſhop of <hi>Wincheſter</hi> replys, <hi>That it was lawful for the King to call what ſtran<g ref="char:EOLhyphen"/>gers he liſted about him for Defence of his Crown and Kingdom, thereby to compel his proud and re<g ref="char:EOLhyphen"/>bellious Subjects to their Obedience;</hi> with which Anſwer they were ſo incenſed, that <hi>they pro<g ref="char:EOLhyphen"/>miſed each other in this cauſe,</hi>
+                  <note place="margin">Firmiter pro<g ref="char:EOLhyphen"/>miſerunt ad invicem quod pro hac cau<g ref="char:EOLhyphen"/>ſa, quae omnes tangebat, uſque ad diviſionem corporis &amp; animae viriliter decertarent. Matth. Paris ibid.</note> 
+                  <hi>which concerned them all, they would ſpend their lives.</hi>
+               </p>
+               <p>Then the King Summons them to a Parlia<g ref="char:EOLhyphen"/>ment at <hi>Oxford,</hi> to which they would not come, and after this to another at <hi>Weſtminſter;</hi> they ſending him this Meſſage, That he ſhould ſud<g ref="char:EOLhyphen"/>denly remove <hi>Peter</hi> Biſhop of <hi>Winton,</hi> and his <hi>Poictovins;</hi> and that if he would not do this, <hi>they all, by the Common Counſel of the whole King<g ref="char:EOLhyphen"/>dom, would expel him with his evil Counſellors out of the Kingdom,</hi>
+                  <note place="margin">Sin autem nollet, ipſi omnes de communi con<g ref="char:EOLhyphen"/>ſilio totius Regni ipſum, cum iniquis conſiliariis ſuis, à Regno depellerent, &amp; de novo Rege creando contrectarent. M. Paris. p. 265.</note> 
+                  <hi>and conſult about the creation of a new King.</hi>
+               </p>
+               <p>
+                  <hi>A. D.</hi> 1234. A Parliament is Aſſembled at <hi>Weſtminſter,</hi> in which indeed the Biſhop of <hi>Cheſter</hi> Excommunicates all them who were deſigning
+<pb n="21" facs="tcp:51914:16"/>
+                  <hi>alium Regem creare, to create another King;</hi>
+                  <note place="margin">M. Paris p. 271.</note> yet doth the Archbiſhop Elect, and his Suffragans roundly declare againſt the cruel and dangerous Practices of <hi>Peter</hi> Biſhop of <hi>Winton,</hi> and <hi>Peter de Rivalis. Firſt,</hi> Becauſe they ſuggeſted,<note place="margin">Vocantes eos proditores, &amp; facientes om<g ref="char:EOLhyphen"/>nes ſic voca<g ref="char:EOLhyphen"/>ri — qui me<g ref="char:EOLhyphen"/>lior eſt homo terrae veſtrae. p. 271.</note> 
+                  <hi>that the</hi> Engliſh <hi>were Traytors,</hi> and alienated the Kings heart from the Marſhal, <hi>who was the beſt Man in the Land.</hi> So that, in their judgment, they that fought, and were then in Arms for their Laws and Liberties, were ſo far from being Traytors, that they were <hi>the beſt Men of the Nation. Se<g ref="char:EOLhyphen"/>condly,</hi> That <hi>there was cauſe to fear the Ruine both of King and Kingdom, ſince they had got ſuch an Aſcendent over him,</hi>
+                  <note place="margin">Timendum eſt tam de vobis, quam de Reg<g ref="char:EOLhyphen"/>no, cum vi<g ref="char:EOLhyphen"/>deamini ma<g ref="char:EOLhyphen"/>gis eſſe in eo<g ref="char:EOLhyphen"/>rum poteſta<g ref="char:EOLhyphen"/>te, quam ipſi in veſtra. Ibid.</note> 
+                  <hi>that he ſeemed rather to be un<g ref="char:EOLhyphen"/>der their power, than they under his.</hi> Which al<g ref="char:EOLhyphen"/>ſo ſeems to have been the caſe betwixt King <hi>James</hi> and his <hi>Jeſuites. Thirdly,</hi> That <hi>they con<g ref="char:EOLhyphen"/>founded, and perverted the Law of the Land ſworn to, and confirmed, and ſtrenghned by Excommuni<g ref="char:EOLhyphen"/>cation, and with that all Juſtice; by reaſon of which, and many other grievances, they humbly be<g ref="char:EOLhyphen"/>ſought him to govern his People, according to the example of other Nations, by the ſworn Natives of his Kingdom, declaring that if he did not cor<g ref="char:EOLhyphen"/>rect theſe miſcarriages in a little time,</hi>
+                  <note place="margin">
+                     <p>Item <hi>legem terrae</hi> jura<g ref="char:EOLhyphen"/>tam, &amp; con<g ref="char:EOLhyphen"/>firmatam at<g ref="char:EOLhyphen"/>que per excommunicationem roboratam, pariter &amp; juſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iam confundunt, &amp; per<g ref="char:EOLhyphen"/>vertunt. Ibid.</p>
+                     <p>Niſi, infra breve tempus, iſta correxeritis, in vos, &amp; in omnes alios contradictores, per cenſuram Eccleſiaſticam procedemus. p. 272.</p>
+                  </note> 
+                  <hi>they would proceed by Eccleſiaſtical Cenſure both againſt his Coun<g ref="char:EOLhyphen"/>ſellors and himſelf.</hi>
+               </p>
+               <p>
+                  <hi>Edmund</hi> Archbiſhop Elect of <hi>Canterbury,</hi> being ſoon after conſecrated, comes to the King with
+<pb n="22" facs="tcp:51914:17"/>his Biſhops and Prelates, relates again the ſame grievances, <hi>declaring to him, That if he would not correct, and pacifically compoſe theſe things with his Liege People, he, with his Prelates, would denounce the Sentence of Excommunication againſt him and all the Enemies of this Concord.</hi> Upon which the King is, at laſt, prevailed with to remand the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Winton</hi> to his Cure,<note place="margin">Denuntiavit etiam ipſi ex<g ref="char:EOLhyphen"/>preſſe quod, niſi Clericus errorem de<g ref="char:EOLhyphen"/>mitteret, &amp; cum fidelibus Regni ſui pacificè componeret, ipſe — cum omnibus Prae<g ref="char:EOLhyphen"/>latis qui aderant, in ipſum Regem ſententiam ferret excommunicationis, &amp; in omnes alios hujus pacis contradictores. Ibid.</note> to baniſh <hi>Peter de Ri<g ref="char:EOLhyphen"/>valis</hi> from the Court, and the <hi>Poictovins</hi> from the Kingdom.</p>
+               <p>One thing more is obſervable in this matter, that as the War of the Marſhal was generally thought juſt, ſo the Marſhal juſtifies himſelf to have been no Traytor, as being <hi>always ready to ſtand to the judgment of his Peers,</hi> and being exiled, and deprived of his Offices and Lands againſt Law, <hi>for which cauſe,</hi> ſaith he, <hi>I ceaſed to be the Kings Liege Man,</hi>
+                  <note place="margin">Unde homo ſuus non fui, ſed ab ipſius Homagio non per me, ſed per ſeipſum licenter abſolvebar. p. 273.</note> 
+                  <hi>and was abſolved from my Homage not by my ſelf, but by the King.</hi>
+               </p>
+               <p>
+                  <hi>A. D.</hi> 1237. A Parliament is held at <hi>London,</hi> in which the King requeſts, in regard of the great expence for his <hi>Siſters Marriage,</hi> the thir<g ref="char:EOLhyphen"/>tieth part of all Moveables both of the <hi>Clergy</hi> and the Laity. After great oppoſition made to this demand, and the recital of many ſuppoſed miſ<g ref="char:EOLhyphen"/>carriages, the King diſavowing, and proteſting againſt his former Revocation, <hi>and freely grant<g ref="char:EOLhyphen"/>ing
+<pb n="23" facs="tcp:51914:17"/>the inviolable obſervation of the Liberties, un<g ref="char:EOLhyphen"/>der pain of Excommunication, hath</hi> yielded to him the thirtieth part of all moveables.<note place="margin">Spontanea promiſit vo<g ref="char:EOLhyphen"/>luntate liber<g ref="char:EOLhyphen"/>tates M. Chartae ſuis fidelibus Regni ſui ex tunc inviolabiliter obſervare, &amp;c. Matth. Paris p. 298.</note>
+               </p>
+               <p>In the year 1240. the Archbiſhops, Biſhops, and many of the Nobles, aſſembled at <hi>London,</hi> grie<g ref="char:EOLhyphen"/>vouſly complain of divers Injuries, Oppreſſions, and Deſolations which befell the Church by the evil Counſel of the King, violating his <hi>Charters,</hi> and his <hi>Oaths, after he had ſo often ſworn that he would preſerve the Eccleſiaſtical Rights inviolated,</hi>
+                  <note place="margin">Reponentes querimoniam graviſſimam coram Rege, in curia ſua, ſuper variis injuriis, &amp; op<g ref="char:EOLhyphen"/>preſſionibus, &amp; quotidianis deſolationibus illatis Eccleſiae per iniquum Regis conſilium, contra Chartas ſuas, &amp; juramenta temere veniendo, — cum ipſe Rex toties juraverat ſe jura Eccleſiaſtica il<g ref="char:EOLhyphen"/>libata conſervare, ipſomet audiente, &amp; Candelam tenonte, quod omnes Epiſcopi in violatores libertatum Eccleſiaſticarum ſimul ſententiam fulminabant, in cujus ſententiae conſummatione, Rex, ut alii, ſuam Candelam extinxit inclinando. M. Paris p. 354.</note> 
+                  <hi>and himſelf held a Candle when the Biſhops in his hearing pronounced the Sentence of Excommunication againſt all the Violaters of the Eccleſiaſtical Liber<g ref="char:EOLhyphen"/>tie, he then extinguiſhing his Candle with the reſt.</hi>
+               </p>
+               <p>In the year 1242. the King requeſts farther Supplies of his Parliament held at <hi>Weſtminſter</hi> for his intended expedition into <hi>France.</hi>
+                  <note place="margin">Et praeterea conceſſit eis tunc quod omnes liber<g ref="char:EOLhyphen"/>tates contentae in M. Charta ex tunc in antea plenius tenerentur per totum Regnum ſuum, &amp; inde fecit eis quandam parvam Chartam quam adhuc habent, in quâ eaedem continentur—&amp; quia dominus Rex nunquam poſt triceſimam datam Chartam ſuam de libertatibus tenuit. Ibid. p. 394.</note> But they reſolutely deny to give him any, for that, in or<g ref="char:EOLhyphen"/>der to the obtaining former grants of Money, <hi>he
+<pb n="24" facs="tcp:51914:18"/>had promiſed and granted to them that all the Li<g ref="char:EOLhyphen"/>berties contained in</hi> Magna Charta, <hi>ſhould from thence be fully obſerved through the Kingdom, and had given them a little Charter in which they were contained; and yet, after all, he never was true to his word, but oppreſſed them ſtill more.</hi>
+               </p>
+               <p>In the year 1244. he deſires new Supplies, which for a time they refuſe, pleading that <hi>the Charter of Liberties which the King had granted,</hi>
+                  <note place="margin">Et quia Char<g ref="char:EOLhyphen"/>ta libertatum quas dominus Rex olim con<g ref="char:EOLhyphen"/>ceſſerat, &amp; pro cujus conſer<g ref="char:EOLhyphen"/>vatione Ar<g ref="char:EOLhyphen"/>chiepiſcopus Cant Edmun<g ref="char:EOLhyphen"/>dus juraverat, &amp; fide-juſic<g ref="char:EOLhyphen"/>rat, &amp; certiſſi<g ref="char:EOLhyphen"/>me pro Rege promiſerat, nondum ex<g ref="char:EOLhyphen"/>iſtit obſerva<g ref="char:EOLhyphen"/>ta. Matth. Pa<g ref="char:EOLhyphen"/>ris p. 432.</note> 
+                  <hi>and the Archbiſhop had upan Oath in the King's name promiſed to them, was not obſerved.</hi> Though at laſt, upon the King's faithful Promiſe to keep and obſerve the Liberties unto which he had ſworn at his Coronation, and whereof he had granted his <hi>Charter,</hi> and upon the appointment of <hi>four Noble Men</hi> to be of the <hi>King's Council,</hi> who ſhould be <hi>conſervatores libertatum, Keepers of their Liberties,</hi> they grant him new Supplies; <hi>the King then promiſing himſelf to obſerve them, and re<g ref="char:EOLhyphen"/>queſting that for the defence of their Liberties, all the Biſhops in their Dioceſſes ſhould pronounce Sentence againſt him, and all who violated the ſaid Liberties in any Article of them.</hi>
+                  <note place="margin">Rex tam in propria per<g ref="char:EOLhyphen"/>ſona, tum per internun<g ref="char:EOLhyphen"/>tios ſolennes, promiſit ſe libertates quas juraverat in Coronatione ſua, ſuper quibus Chartam fecerat, integerrime ſervaturum, ad quarum etiam tuitionem rogavit ut ſin<g ref="char:EOLhyphen"/>guli Epiſcopi, in Diceceſibus ſuis ſententiam ferrent in ipſum, &amp; omnes qui contra me<g ref="char:EOLhyphen"/>moratas libertates venirent in aliquo Articulo. M. Paris p. 435.</note> And thus they agreed to grant him a Supply.</p>
+               <p>In the year 1252. he holds a Parliament at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and requires more Money; and they, after ſome conſultation anſwer, <hi>that though the King had much oppreſſed both Church and Kingdom, they
+<pb n="25" facs="tcp:51914:18"/>would doe their utmoſt to ſatisfie his deſires, provided that, as he had often promiſed, he would now at laſt inviolably obſerve the Charter of their Li<g ref="char:EOLhyphen"/>berties, ſo often covenanted and ſworn to.</hi> Other things they demanded then, which the <hi>King</hi> would by no means agree to, ſwearing horribly, that whilſt he lived<note n="*" place="margin">quantum<g ref="char:EOLhyphen"/>cun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Eccleſi<g ref="char:EOLhyphen"/>am Anglica<g ref="char:EOLhyphen"/>nam, &amp; Reg<g ref="char:EOLhyphen"/>num ſuum Angliae oppre<g ref="char:EOLhyphen"/>ſerit; &amp; afflix<g ref="char:EOLhyphen"/>erit quod poſtulat à no<g ref="char:EOLhyphen"/>bis adhuc im<g ref="char:EOLhyphen"/>pendemus, &amp; deſiderio ſuo, pro poſſe, ob<g ref="char:EOLhyphen"/>ſecundabi<g ref="char:EOLhyphen"/>mur, ſi, quodmultoties promiſit, vellt Chartam toties pactam, totieſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> debitam, Liber<g ref="char:EOLhyphen"/>tatum nobis juratarum inviolabiliter poſthac obſervare. <hi>p.</hi> 568. Nunquam in talem mergeretur Servitutem. <hi>Ibid. p.</hi> 570.</note> 
+                  <hi>he never would be reduced into ſuch ſlavery:</hi> And ſo the <hi>Aſſembly</hi> breaks up, producing nothing but the <hi>King's</hi> Wrath.</p>
+               <p>In the Year 1253. was aſſembled a very great <hi>Parliament,</hi> in which the <hi>Arch-Biſhop,</hi> and ſome <hi>Bi<g ref="char:EOLhyphen"/>ſhops,</hi> are ſent to induce the <hi>King</hi> to permit <hi>H. Church</hi> to enjoy her Liberties, as he had oft pro<g ref="char:EOLhyphen"/>miſed upon Oath, and declaring, that if he would correct this, and other of his miſcarriages, ac<g ref="char:EOLhyphen"/>cording to the Tenor of <hi>M. Charta,</hi> they would incline to his Petition,<note place="margin">Quod ſi hunc, &amp; alios errores, ſecundùm M. Chartae de Liberta<g ref="char:EOLhyphen"/>tibus confectae tenorem emen<g ref="char:EOLhyphen"/>daret, ipſi, uſque ad gravamen magnum, Petitionibus ſuis in<g ref="char:EOLhyphen"/>clinarent, <hi>&amp;c.</hi> p. 579.</note> how burthenſome ſoever it might be to them: This the <hi>King</hi> promiſeth to doe, and deſires them to aſſiſt him in it; ſo the <hi>Clergy</hi> grant him à Tenth, and the <hi>Knights Scutage, viz,</hi> three <hi>Marks</hi> of every <hi>Knights Fee</hi> for that year,<note place="margin">Rex bonà fi<g ref="char:EOLhyphen"/>de, &amp; ſine ali<g ref="char:EOLhyphen"/>qua cavilatio<g ref="char:EOLhyphen"/>ne, promiſit, ſe Chartam Magnam, &amp; omnes ejus Articulos fideliter obſervaturum, quam Rex Jo<g ref="char:EOLhyphen"/>hannes tenere juravit, &amp; ſimiliter qui praeſens eſt, in ſuſceptione Coronae, &amp; poſte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> multoties. <hi>Ibid.</hi>
+                  </note> and the <hi>King</hi> promiſeth faithfully, and without cavil to ratifie
+<pb n="26" facs="tcp:51914:19"/>
+                  <hi>Magna Charta,</hi> and faithfully to obſerve all the Ar<g ref="char:EOLhyphen"/>ticles of it, which <hi>King John,</hi> and he, at his <hi>Coro<g ref="char:EOLhyphen"/>nation,</hi> and often ſince, had ſworn to obſerve. And this is done in the moſt ſolemn and ceremonial manner that could be deviſed; for the <hi>King,</hi> with all the great <hi>Nobility</hi> of <hi>England,</hi> all the <hi>Biſhops</hi> and chief <hi>Prelates</hi> in their <hi>Ornaments,</hi> with bur<g ref="char:EOLhyphen"/>ning Candles in their hands, aſſemble to hear the terrible ſentence of <hi>Excommunication</hi> upon all the Infringers of the ſame; and at the lighting of thoſe Candles, the <hi>King,</hi> having one in his hand, gives it to one of the <hi>Prelates,</hi> ſaying, <hi>It be<g ref="char:EOLhyphen"/>comes not me,</hi>
+                  <note place="margin">Nondecet meCandelam talem tenere, ſum non enim Sacerdos; Cor autemmajus perhibet Teſti<g ref="char:EOLhyphen"/>monium; &amp; ex tunc tenuit ma<g ref="char:EOLhyphen"/>num expanſam ad Pectus, donec tota ſententia finiretur. <hi>p.</hi> 580.</note> 
+                  <hi>who am no Prieſt, to hold this Candle; my Heart ſhall be a greater teſtimony; and withall laid his hand on his Breaſt the whole time the ſentence was read, which was thus pro<g ref="char:EOLhyphen"/>nounced: In the name of the Omnipotent God,</hi> &amp;c. Which done, he cauſed the <hi>Charter</hi> of <hi>King John</hi> his <hi>Father</hi> to be read: In the end, having thrown away their Candles, they cried out, <hi>So let them who incurr this ſentence be extinct, and ſtink in Hell:</hi> And the <hi>King</hi> with a loud voice ſaid,<note n="*" place="margin">Dixit ipſe Rex, Sic me Deus adjuvet, haec ommia il<g ref="char:EOLhyphen"/>libata obſerva<g ref="char:EOLhyphen"/>bo fideliter, ſicut ſum ho<g ref="char:EOLhyphen"/>mo, ſicut ſum Chriſtianus, ſicut ſum mi<g ref="char:EOLhyphen"/>les, &amp; ſicut ſum Rex Coronatus &amp; Inunctus, <hi>&amp;c. M. Paris.</hi> p. 580. Idem Rex, conſiliis maligno<g ref="char:EOLhyphen"/>rum praeventus, eaſdem infringendo contra venire non formidavit, credens pro<g ref="char:EOLhyphen"/>munere abſolvi à trangreſſione. <hi>p.</hi> 597.</note> 
+                  <hi>As God help me, I will, as a Man, a Chriſtian, a Knight, a King Crowned and Annointed, inviolably obſerve all theſe things.</hi> But notwithſtanding all this, in the very next year <hi>the King, by the counſels of ſome wicked men, is wrought upon to infringe again this Charter, hoping for a gift to obtain an abſolution from his Oath.</hi>
+               </p>
+               <pb n="27" facs="tcp:51914:19"/>
+               <p>In the next year a <hi>Parliament</hi> is called, which yeilds nothing but grievous Complaints for breach of <hi>M. Charta,</hi>
+                  <note place="margin">Page 608.</note> and Promiſes of ſupply provided it may be again confirmed, and the electing the <hi>Juſ<g ref="char:EOLhyphen"/>ticiar,</hi> the <hi>Chancellor,</hi> and <hi>Treaſurer</hi> put into their hands; to which the <hi>King</hi> would not yield: But though the <hi>King</hi> would not obſerve it, <hi>M. Paris</hi> ſaith, <hi>It was cryed in all Countries,</hi>
+                  <note place="margin">Diebus autem iſtis acclama<g ref="char:EOLhyphen"/>tum eſt in co<g ref="char:EOLhyphen"/>mitatibus, &amp; an<g ref="char:EOLhyphen"/>nunciatum eſt in Synodis, in Eccleſiis, &amp; ubicun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> lo<g ref="char:EOLhyphen"/>corum homines convenerant, ut M. Charta inviolabiliter teneretur, quam R. Johan<g ref="char:EOLhyphen"/>nes conceſſerat, &amp; iſte Rex praeſens multoties conceſſit; &amp; lata eſt ſententia ſolen<g ref="char:EOLhyphen"/>niter in omnes ejuſdem violatores. <hi>Ibid. p.</hi> 609.</note> 
+                  <hi>and denounced in all Synods, Churches, and publick reſort, that</hi> M. Charta <hi>ſhould be inviolably obſerved, and the ſentence of Excommunication is denounced againſt all the viola<g ref="char:EOLhyphen"/>ters of it.</hi>
+               </p>
+               <p>In the Year 1256. Proviſion is again made <hi>ſub paena horribilis Anathematis,</hi>
+                  <note place="margin">Page 619.</note> 
+                  <hi>under the penalty of an horrible Anathema,</hi> that <hi>the</hi> M. Charta <hi>of King</hi> John <hi>ſhould be obſerved.</hi>
+               </p>
+               <p>In the Year 1257. The <hi>King</hi> requeſts an Aid for his Son <hi>Edmund,</hi> for the acquiring the <hi>Kingdom</hi> of <hi>Sicily,</hi> and after many excuſes, <hi>upon condition that the King would obſerve</hi> M. Charta <hi>ſo often promiſed, and bought, they tender</hi> 52000. <hi>Marks, with which the King was not ſatisfied.</hi>
+                  <note place="margin">Ee tamen conditione additâ, ut M. Chartam, toties promiſſam, emptam, &amp; redemptam, ex tunc inviolabiliter ob<g ref="char:EOLhyphen"/>ſervaret, <hi>&amp;c.</hi> p. 637.</note>
+               </p>
+               <p>In the Year 1258. was held the <hi>Parliament</hi> at <hi>Oxford</hi> where the <hi>Nobles enter into an unchangeable
+<pb n="28" facs="tcp:51914:20"/>League to require that the King ſhould faithfully ob<g ref="char:EOLhyphen"/>ſerve the Charter of King</hi> John,<note place="margin">
+                     <p>Parliamento incipiente, ſo<g ref="char:EOLhyphen"/>lidabatur Mag<g ref="char:EOLhyphen"/>natum propo<g ref="char:EOLhyphen"/>ſitum &amp; con<g ref="char:EOLhyphen"/>ſilium immu<g ref="char:EOLhyphen"/>tabile, exigen<g ref="char:EOLhyphen"/>do conſtantiſ<g ref="char:EOLhyphen"/>ſimè ut Domi<g ref="char:EOLhyphen"/>nus Rex Char<g ref="char:EOLhyphen"/>tam Liberta<g ref="char:EOLhyphen"/>tum Angliae, quam Johan<g ref="char:EOLhyphen"/>nes Rex Anglis conceſſit—fi<g ref="char:EOLhyphen"/>deliter teneat, &amp; conſervet—exigebant inſuper ſibi fieri Juſticiarum, <hi>&amp;c.</hi>—Quod Rex recognoſcens, graviter juravit conſiliis eorum obſecundare, &amp; Edvardus filius ejus eodem eſt juramento adſtrictus. <hi>p.</hi> 653.</p>
+                     <p>Rex coactus eſt corporale praeſtare Sacramentum, cum omnibus ferè poſt jurantibus illud idem. <hi>Hyp. Neuſtr.</hi> p. 467.</p>
+                  </note> 
+                  <hi>which he had ſo often ſwore to perform, they require alſo the chief Juſticiar, Chancellor, and Treaſurer to be ordained by publick choice, and the twenty four Conſervators of the Kingdom to be confirmed, twelve by the Electi<g ref="char:EOLhyphen"/>on of the Lords, and twelve by the King, who ſwears to the confirmation of theſe things, and cauſes the Prince to take the ſame Oath.</hi> Walſingham adds, <hi>that all after him did ſwear almoſt the ſame thing.</hi>
+               </p>
+               <p>But notwithſtanding this, the <hi>King</hi> gets an abſo<g ref="char:EOLhyphen"/>lution from his Oath of the <hi>Pope.</hi>
+                  <note place="margin">Rogabant hu<g ref="char:EOLhyphen"/>militer ut communiter praeſtitum ju<g ref="char:EOLhyphen"/>ramentum in<g ref="char:EOLhyphen"/>violabiliter obſervare vel<g ref="char:EOLhyphen"/>let. <hi>Contin.</hi> M. par. <hi>p.</hi> 567.</note> Of this the <hi>Barons</hi> hearing, <hi>humbly beſeech him to perform the Oath publickly ſworn;</hi> but the <hi>King</hi> anſwering them with threats, the buſineſs is deferred till the coming of <hi>Prince Edward;</hi> who coming, ſides with the <hi>Barons,</hi> according to his Oath, and a League is made betwixt them to apprehend the <hi>King's Evil Counſellors,</hi>
+                  <note place="margin">Ibid.</note> and their <hi>Abettors,</hi> and to endeavour to remove them from the <hi>King.</hi>
+               </p>
+               <p>In the Year 1263. The conteſt betwixt the <hi>King,</hi> and the <hi>Barons</hi> is referred to the mediation of the <hi>French King,</hi> who annuls the <hi>proviſions</hi> of <hi>Oxford,</hi> but with this exception, That <hi>the Ancient Charter of King</hi> John,<note place="margin">Hoc excepto, quod Anti<g ref="char:EOLhyphen"/>quae Chartae R. Johannis Angliae Univerſitati conceſſae, per illam ſententiam in nullo intende<g ref="char:EOLhyphen"/>bat penitùs derogare. <hi>p.</hi> 668.</note> 
+                  <hi>granted to the Community, ſhould in no<g ref="char:EOLhyphen"/>thing be thereby impaired.</hi>
+               </p>
+               <pb n="29" facs="tcp:51914:20"/>
+               <p>Then began the <hi>Barons</hi> Wars under <hi>Simon of Monfort,</hi> who ſucceeded ſo far in them, as to take the <hi>King</hi> and his Son <hi>Priſoners.</hi> But afterwards the <hi>Prince</hi> eſcaping out of Priſon, fights with <hi>Si<g ref="char:EOLhyphen"/>mon,</hi> and overthrows him at <hi>Eveſham,</hi> where he was ſlain.</p>
+               <p>And here it is to be obſerved, that none of the <hi>Hiſtorians</hi> of thoſe times will permit this <hi>Simon</hi> to be called a <hi>Rebel,</hi> or a <hi>Traitor,</hi> but they ſtill repre<g ref="char:EOLhyphen"/>ſent him as <hi>a moſt devout ſervant of God and the Church,</hi>
+                  <note place="margin">Sciendum, quod nemo ſani capitis debet cen<g ref="char:EOLhyphen"/>ſere, ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> appellare Si<g ref="char:EOLhyphen"/>monem nomi<g ref="char:EOLhyphen"/>ne Proditoris; non enim fuit Proditor, ſed Dei Eccleſiae in Anglia devotiſſimus Cultor, &amp; fideliſſimus Protector, Regni Anglorum Scutum &amp; Defenſor. <hi>Chron. de Mailr. p.</hi> 228.</note> 
+                  <hi>and a moſt faithfull Protector, Shield, and Defender of the Kingdom of</hi> England, and even a <hi>Martyr</hi> for the <hi>Liberties</hi> of <hi>Church,</hi> and <hi>State.</hi>
+               </p>
+               <p>After the end of theſe Wars, in the Year 1269.<note place="margin">M. Par. <hi>Cont.</hi> p. 677.</note> the <hi>King</hi> calls a <hi>Parliament</hi> to be hèld at <hi>Marlborough,</hi> where the <hi>Statutes</hi> called <hi>the Statutes of Marlborough</hi> were Enacted,<note place="margin">Magna Charta in ſingulis ſuis Articulis teneatur, tam in his quae ad Regem pertinent, quàm quae ad alios: Similiter Charta de Foreſta.</note> in the <hi>Fifth Chapter</hi> of which it is decreed, That <hi>the Great Charter, and the Char<g ref="char:EOLhyphen"/>ter</hi> de Foreſta <hi>ſhall be obſerved in all their Articles, both concerning the the King, and his Subjects.</hi> And here,<note place="margin">Inſt. l. 2. p. 102.</note> ſaith the <hi>Lord Coke,</hi> it is to be obſerved, that <hi>after this Parliament neither</hi> M. Charta, <hi>nor</hi> Charta de Foreſta <hi>was ever attempted to be impugned, or queſtioned, whereupon Peace and Tranquillity have ever ſince enſued.</hi>
+               </p>
+               <pb n="30" facs="tcp:51914:21"/>
+               <p>
+                  <hi>Edward</hi> the <hi>Firſt,</hi> in the twenty fifth year of his <hi>Reign,</hi> confirms the ſaid <hi>Charters</hi> of the Liberties of <hi>England,</hi> and of the <hi>Foreſt,</hi> and declares <q rend="margQuotes">
+                     <hi>they are to he holden for Common Law,</hi>
+                     <note place="margin">Confirm. Chart. c. 1.</note> requires that they ſhould be held in every point, that they ſhould be ſent under the Great Seal, to all his <hi>Juſtices,</hi> as well of the <hi>Foreſt</hi> as others, proclaimed by the <hi>Sheriff</hi> of the <hi>County;</hi> and that all <hi>Juſtices, Sheriffs, Mayors,</hi> and other <hi>Miniſters,</hi> which under the <hi>King</hi> had the Laws to guide them, ſhould allow the ſaid <hi>Charters</hi> in all their points, which in any Plea ſhall come before them in Judgment, and that the ſaid <hi>Charters</hi> ſhould be ſent to all the <hi>Cathedrals</hi> within the <hi>Realm:</hi> and ſhould be read twice a year before the People,<note place="margin">Chap. 3.</note> and that the <hi>Arch Biſhops,</hi> and <hi>Biſhops,</hi>
+                     <note place="margin">Chap. 4.</note> ſhould denounce the Sentence of <hi>Excommunication</hi> againſt all them who, in Word, or Deed, did act againſt the ſaid <hi>Charters,</hi> and theſe Sentences ſhall be pronounced, and publiſhed twice in the year by the ſaid <hi>Prelates.</hi>
+                  </q>
+               </p>
+               <p>And becauſe, in the <hi>ſixth Chapter</hi> of the ſaid Act, there was added this clauſe, <hi>Saves les auncient aides &amp; priſes, dues &amp; accuſtomes,</hi> which gave ſome colour for the <hi>King's Officers</hi> to make an Evaſion, the <hi>Lords</hi> of <hi>Parliament,</hi> met in the <hi>twenty eighth year</hi> of his <hi>Reign,</hi> do importune the <hi>King</hi> again to confirm the ſaid <hi>Charters,</hi> which he promiſed to doe; but when it came to be ſet down in form of an Act, the <hi>King</hi> would have added, <hi>A ſaving of the Right of his Crown,</hi> which the <hi>Lords</hi> did mainly inveigh againſt, and preſſed the <hi>King</hi> with his promiſe to
+<pb n="31" facs="tcp:51914:21"/>confirm them as abſolutely as his <hi>Father Henry</hi> 3. had done; which, in the end, he yeilded to, as ap<g ref="char:EOLhyphen"/>pears by the <hi>Act,</hi> called <hi>Articuli ſuper Chartas,</hi>
+                  <note place="margin">Chap. 1.</note> where theſe <hi>Charters</hi> are again confirmed; and 'tis pro<g ref="char:EOLhyphen"/>vided that they ſhall be read <hi>four times every year before the People in every County after the Feaſt of St.</hi> Michael, <hi>and after the Feaſt of the Nativity of our Saviour, after</hi> Eaſter, <hi>and after the Nativity of St.</hi> John <hi>the</hi> Baptiſt.</p>
+               <p>When the <hi>King</hi> had ended his Wars in <hi>Scotland,</hi> he refuſed to ſtand to the confirmation which he had made to his <hi>Barons,</hi> of ſuch Laws and Liber<g ref="char:EOLhyphen"/>ties as he before had granted, pretending that they had forced his conſent,<note place="margin">Obtinuit Rex à Domino Papa abſolutionem à juramento, quod invitus praeſtiterat ſuper obſer<g ref="char:EOLhyphen"/>vantia Libertatum alias à Co<g ref="char:EOLhyphen"/>mitibus &amp; Baronibus exactarum. <hi>Walſingh. p.</hi> 92.</note> 
+                  <hi>and he ob<g ref="char:EOLhyphen"/>tained of the Pope an abſolution from the Oath which he unwillingly had taken to obſerve them.</hi> But when great murmuring, and diſcontent followed hereupon, and for his levying Taxes without conſent of <hi>Parliament,</hi> in his <hi>thirty fourth year</hi> he makes <hi>the Statute de Tal<g ref="char:EOLhyphen"/>lagio non concedendo,</hi> for the quieting of the <hi>Com<g ref="char:EOLhyphen"/>mons,</hi> and for a perpetual Law for ever after; de<g ref="char:EOLhyphen"/>claring, <q rend="margQuotes">That no Aid or Taxes ſhall from thence<g ref="char:EOLhyphen"/>forth be levied without their conſent, and ma<g ref="char:EOLhyphen"/>king a general reſtitution to the Subjects of all their Laws, Liberties, and free Cuſtomes, as freely, and wholly, as at any time before in the better and fuller manner they uſed to have the fame; and and ſo ended all the diſputes touching theſe <hi>Char<g ref="char:EOLhyphen"/>ters.</hi>
+                  </q>
+               </p>
+               <pb n="32" facs="tcp:51914:22"/>
+               <p>
+                  <hi>Walſingham</hi> ſaith,<note place="margin">Page 71, 72.</note> that <hi>the Grievances which the Arch-Biſhops, Biſhops, Abbats, Priors, Earls, and Ba<g ref="char:EOLhyphen"/>rons, with the whole Commonalty, remonſtrated to the King were theſe,</hi> viz.</p>
+               <p>Firſt, <hi>That they were not dealt with according to the Laws and Cuſtoms of the Land, according to which their Anceſtors uſed to be governed.</hi>
+               </p>
+               <p>Secondly, <hi>That the Articles of</hi> M. Charta <hi>were neglected, to the great damage of the whole Com<g ref="char:EOLhyphen"/>munity.</hi>
+               </p>
+               <p>Thirdly, <hi>That the Aſſize, and Charter of the Foreſt was not obſerved;</hi> and then he adds, that <hi>the Nobles would conſent to no other form of Peace with the King, than that which he eſtabliſhed in the Statute, de Tal<g ref="char:EOLhyphen"/>lagio non concedendo,</hi> and which I have now ſet down.</p>
+               <p>There is one thing more very obſervable in the Reign of that <hi>King,</hi> that when the <hi>Pope</hi> had ſum<g ref="char:EOLhyphen"/>moned him before him to anſwer touching his Right to the <hi>Kingdom</hi> of <hi>Scotland,</hi> a <hi>Parliament</hi> then held at <hi>Lincoln,</hi>
+                  <note place="margin">Papa R. Ed<g ref="char:EOLhyphen"/>vardum pri<g ref="char:EOLhyphen"/>mum in judi<g ref="char:EOLhyphen"/>cium vocante, reſpondet Par<g ref="char:EOLhyphen"/>liamentum Lincolniae ha<g ref="char:EOLhyphen"/>bitum, quod praefatus Dominus noſter Rex, ſuper juribus Regni Scotiae, aut aliis ſuis temporalibus, nullatenus reſpondeat judicialiter coram vobis, nec judicium ſu<g ref="char:EOLhyphen"/>beat quoquomodo — cùm praemiſſa caderent manifeſtè in exhaeredationem juris</note> anſwer the <hi>Pope</hi> thus, That <hi>their King ſhould not anſwer judicially before the Pope, nor undergo his Judgment for his Rights of the Kingdom of</hi> Scotland, <hi>or any other Temporal Rights,
+<pb n="33" facs="tcp:51914:22"/>becauſe this manifeſtly tended to the diſinheriſon of the ſaid Crown,</hi>
+                  <note place="margin">Coronae Regni Angliae, &amp; R. Dignitatis, ac ſubverſionem Sta<g ref="char:EOLhyphen"/>tûs ejuſdem Regui notoriam, necnon in praejudicium Liber<g ref="char:EOLhyphen"/>tatis, Conſuetudinum, &amp; Legum paternarum, ad quarum obſer<g ref="char:EOLhyphen"/>vationem, &amp; defenſionem, ex debito praeſtiti juramenti, ad<g ref="char:EOLhyphen"/>ſtringimur, &amp; quae manu tene<g ref="char:EOLhyphen"/>bimus toto poſſe, &amp; totis viri<g ref="char:EOLhyphen"/>bus, cum Dei auxilio, defen<g ref="char:EOLhyphen"/>demus; nec etiam permittimus, aut aliqualiter permittemus, ſicut nec poſſumus nec debe<g ref="char:EOLhyphen"/>mus, praemiſſa tam inſollta, in<g ref="char:EOLhyphen"/>debita, praejudicialia, &amp; alias inaudita, praelibatum Dominum. Noſtrum Regem, etiamſi vellet, facere, ſeu modo quolibet at<g ref="char:EOLhyphen"/>temptare. Walſingh. <hi>Hiſt.</hi> p. 85. <hi>Hypod. Neuſtr.</hi> p. 496. Speed <hi>p.</hi> 731.</note> 
+                  <hi>and the R. Dignity, and the ſubverſion of the ſaid Kingdom, and of the Liber<g ref="char:EOLhyphen"/>ties, Cuſtoms, and Paternal Laws, to the defence of which they were by their Oath obliged, and with their whole power would defend; and were the King never ſo willing, they, as they ought not, ſo they would not permit the King to attempt the Pre<g ref="char:EOLhyphen"/>miſes.</hi> When <hi>King Richard</hi> the <hi>Second</hi> asked of Sir <hi>Robert Triſi<g ref="char:EOLhyphen"/>lian,</hi> and his other <hi>Lawyers, whe<g ref="char:EOLhyphen"/>ther he might not Diſannul the De<g ref="char:EOLhyphen"/>crees of the laſt Parliament,</hi> and they had anſwered that <hi>he might, BECAVSE HE WAS ABOVE THE LAWS,</hi> as one of them confeſſed, <hi>he deſerved death for that Anſwer,</hi> ſo all them, that could be caught, ſoon after found it.</p>
+               <p>Farthermore, Let it be obſerved, that the <hi>Nobi<g ref="char:EOLhyphen"/>lity</hi> of <hi>England,</hi> as the <hi>Lord Coke</hi> obſerves, <hi>have ever had the Laws of</hi> England <hi>in great Eſtimation and Reverence,<note place="margin">Inſtit. l. 2. p. 97.</note> and would never ſuffer them to be changed.</hi> This made <hi>King Henry</hi> the <hi>Firſt,</hi> ſaith he, to write to <hi>Pope Paſchal</hi> thus: <hi>Let your Holineſs know, that, by the help of God, whilſt I live,</hi>
+                  <note place="margin">Notum habeat Sanctitas ve<g ref="char:EOLhyphen"/>ſtra, quod, me vivente, auxiliante Deo, Dignitates &amp; Uſus Regni noſtri Angliae non imminuentur; &amp; ſi ego, quod abſit, in tanta dejectione me ponerem, Optimates mei, &amp; totus Angliae populus, id nullo modo pateretur. <hi>Charta</hi> Henr. <hi>primi.</hi>
+                  </note> 
+                  <hi>the
+<pb n="34" facs="tcp:51914:23"/>Dignities, and Cuſtoms of our Kingdom of</hi> England <hi>ſhall not be diminiſhed; and if I, which God forbid, ſhould ſo far deject my ſelf, my Nobles, and all the people of</hi> England <hi>would never ſuffer them to be al<g ref="char:EOLhyphen"/>tered.</hi>
+               </p>
+               <p>When the <hi>Biſhops,</hi> in the twentieth year <hi>of Henry</hi> the <hi>Third,</hi> would have <hi>thoſe Children who were born before Matrimony Legitimate, as to Here<g ref="char:EOLhyphen"/>ditary Succeſſion, as well as thoſe who were born after Matrimony,</hi> all the <hi>Earls</hi> and <hi>Barons</hi> anſwer with one voice,<note place="margin">Et omnes Co<g ref="char:EOLhyphen"/>mites &amp; Baro<g ref="char:EOLhyphen"/>nes unâ voce reſponderunt, quod nolunt Leges Angliae mutare quae hucſque uſitatae &amp; approbatae ſunt. <hi>Stat.</hi> Mert. c. 9. Bracton. <hi>l.</hi> 5. <hi>c.</hi> 19. <hi>F.</hi> 417.</note> 
+                  <hi>We will not have the Laws of</hi> England, <hi>which have hitherto been uſed and approved, to be changed.</hi>
+               </p>
+               <p>In the <hi>Letters</hi> which all the <hi>Nobility</hi> of <hi>England,</hi> by Aſcent of the whole <hi>Commonalty,</hi> aſſembled in <hi>Parliament</hi> at <hi>Lincoln,</hi> wrote to <hi>Pope Boniface,</hi> we find theſe words.<note place="margin">Ad Obſervati<g ref="char:EOLhyphen"/>onem &amp; De<g ref="char:EOLhyphen"/>fenſionem Li<g ref="char:EOLhyphen"/>bertatum, Con<g ref="char:EOLhyphen"/>ſuetudinum, &amp; Legum pater<g ref="char:EOLhyphen"/>narum, ex de<g ref="char:EOLhyphen"/>bito praeſtiti Sacramenti adſtringimur, quae manu te<g ref="char:EOLhyphen"/>nebimus toto poſſe, totiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> viribus, cum Dei auxilio defendemus, nec etiam permittimus, nec aliquatenus permittemus, ſicut nec poſſumus, nec debemus, praemiſſa tam inſolita, indebita, praejudicialia, &amp; aliàs in<g ref="char:EOLhyphen"/>audita, Dominum noſtrum Regem, etiamſi vellet, facere, ſeu quomodolibet attemptare. <hi>Ret. Parl.</hi> 28. Ed. 1. <hi>apud</hi> Lincoln.</note> 
+                  <hi>By virtue of our Oath we are bound to the Obſervation and Defence of the Liberties, Cuſtoms, and Paternal Laws, which by the help of God we will defend with our whole Power; non do we, nor will we permit our Lord the King, though he were willing, to attempt things ſo unuſual, undue, and prejudicial to the Royal Dignity:</hi> and this was Sealed by 104 <hi>Earls,</hi> and <hi>Barons</hi> in the name of all the <hi>Commonalty</hi> of <hi>England.</hi>
+               </p>
+               <pb n="35" facs="tcp:51914:23"/>
+               <p>What they affirm touching their Oaths to de<g ref="char:EOLhyphen"/>fend their Laws, is an unqueſtionable truth; for be<g ref="char:EOLhyphen"/>ſides what hath been noted of this kind allready, in the twenty fifth year of this King, it was eſta<g ref="char:EOLhyphen"/>bliſhed by Act of Parliament,<note place="margin">25. <hi>Ed.</hi> 1. <hi>c.</hi> 3. 42. <hi>Ed.</hi> 3. <hi>c.</hi> 1.</note> that if any Statute were made contrary to <hi>Magna Charta,</hi> or <hi>Charta de Foreſtis,</hi> it ſhould be holden for none; and the Nobles, and the great Officers were ſworn to the Obſervation of them: Yea,<note place="margin">
+                     <hi>Speed</hi> p. 583.</note> by the Royal Com<g ref="char:EOLhyphen"/>mand of <hi>Henry</hi> the <hi>Third,</hi> Oaths were taken to tye all men to the ſtrict Obſervation of them.</p>
+            </div>
+            <div n="4" type="section">
+               <head>
+                  <hi>SECT. IV.</hi> That we find throughout the Hiſtory of our Kings, that their Election, or elſe their Compact with the People, hath ge<g ref="char:EOLhyphen"/>nerally been conceived a thing proper to ſtrengthen their Title to the Crown, or at the leaſt to ſatisfie their People.</head>
+               <p n="4">
+                  <hi>4ly,</hi> IT may be farther worthy of our conſiderati<g ref="char:EOLhyphen"/>on, that we find throughout the <hi>Hiſtory</hi> of our <hi>Kings</hi> that their <hi>Election,</hi> or elſe their Com<g ref="char:EOLhyphen"/>pact with the people, hath generally been looked on, as a thing proper to ſtrengthen their Title to the <hi>Crown,</hi> or at the leaſt to ſatisfie the People. For inſtance,</p>
+               <pb n="36" facs="tcp:51914:24"/>
+               <p>Firſt,<note place="margin">Dunelm. <hi>p.</hi> 195. Hoved. <hi>E.</hi> 258. Ab omnibus tam Norman<g ref="char:EOLhyphen"/>norum, quam Anglorum Proceribus Rex eſt electus. Gemit. <hi>de Ducibus</hi> Norm. l. 6. c. 37. Walſing. <hi>Hypod. Neuſt.</hi> p. 436.</note> Of the <hi>Conqueror S. Dunelmenſis,</hi> and <hi>Hove<g ref="char:EOLhyphen"/>den</hi> inform us, that <hi>Foedus pepigit, he made a Cove<g ref="char:EOLhyphen"/>nant with the people: Gulielmus Gemiticenſis,</hi> and <hi>Walſingham,</hi> ſay, that <hi>he was choſen King by all the Nobles of</hi> England <hi>and</hi> Normandy.</p>
+               <p>Secondly,<note place="margin">Daniel <hi>p.</hi> 52. Polyd. Virg. <hi>Hiſt. l.</hi> 10. <hi>p.</hi> 164.</note> 
+                  <hi>William</hi> the <hi>Second</hi> held the poſſeſſion of the <hi>Crown</hi> of <hi>England by the Will of the Kingdom, the Succeſſion in Right of Primogeniture being none of his.</hi>
+                  <note place="margin">Volenti<g ref="char:EOLhyphen"/>bus omnium provincialium animis in Re<g ref="char:EOLhyphen"/>gem acceptus. M. Par. <hi>p.</hi> 10. <hi>Chron.</hi> Joh. Brompt. <hi>p.</hi> 983, 984.</note> The <hi>Hiſtorians</hi> ſay, that <hi>the Nobles met in Council at</hi> Weſtminſter, <hi>and after long Conſultation made him King;</hi> that <hi>by the willing minds of all he was ac<g ref="char:EOLhyphen"/>cepted for their King,</hi> and the <hi>King</hi> himſelf declares, <hi>quod ipſum in Regem creaverant,</hi> that they had crea<g ref="char:EOLhyphen"/>ted him King.</p>
+               <p>Thirdly, <hi>Henry</hi> the <hi>Firſt</hi> was inveſted in the <hi>Crown</hi> by the Act of the Kingdom. The <hi>Hiſtorians</hi> tell us that <hi>a Council of the whole Community rejected</hi> Robert,<note place="margin">Unanimi aſcenſu ſuo ipſum refutavêrunt, &amp; pro Rege om<g ref="char:EOLhyphen"/>ninò recuſavêrunt, &amp; Henricum fratrem in Regem ere êrunt. Knyght. <hi>de Event.</hi> Angl. <hi>p.</hi> 2374. In Regem electus eſt frater ejus Henricus, &amp; conſe<g ref="char:EOLhyphen"/>cratus eſt Rex Angl. M. Weſtm. <hi>Hist. p.</hi> 235. In Regem electus eſt, aliquantis tamen controver<g ref="char:EOLhyphen"/>ſiis inter Procéres excitatis, &amp; Sopitis. W. Malmsb. <hi>l.</hi> 5. <hi>F.</hi> 88. J. Brompt. <hi>Chron. p.</hi> 997. Wal<g ref="char:EOLhyphen"/>ſing. <hi>Hypod. Neuſt. p.</hi> 446. Rich. Hagulſt. <hi>p.</hi> 310.</note> 
+                  <hi>the eldeſt Son of the Conqueror, and would not have him for their King; but with unanimous conſent, they advanced his Brother</hi> Henry <hi>to the Kingdom, who was by all Elected, and Conſecrated King at</hi> Weſtminſter, <hi>after the death of</hi> Wil<g ref="char:EOLhyphen"/>liam Rufus, <hi>as being the firſt born of the Conqueror, after he was King of</hi> England. <hi>William</hi> of <hi>Malmsbury</hi> ſaith, <hi>he was Conſecrated within four days after his Brother's death, leſt the Rumour of</hi> Robert's <hi>coming to</hi> En<g ref="char:EOLhyphen"/>gland,
+<pb n="37" facs="tcp:51914:24"/>
+                  <hi>ſhould move the Nobles to repent of their Electi<g ref="char:EOLhyphen"/>on:</hi>
+                  <note place="margin">Sciatis me Dei miſericordia, &amp; communi conſilio Baro<g ref="char:EOLhyphen"/>num Regni Angliae, ejuſ<g ref="char:EOLhyphen"/>dem Regni Regem eſſe coronatum. M. Paris, <hi>pag.</hi> 38.</note> And in his <hi>Charters,</hi> the <hi>King</hi> himſelf writes thus; <hi>Know you that I was Crowned King of</hi> En<g ref="char:EOLhyphen"/>gland <hi>by the Common Council of the Barons of the Kingdom:</hi> And 'tis obſervable, that his Elder Bro<g ref="char:EOLhyphen"/>ther <hi>Robert</hi> being abſent at the Holy Wars, they choſe <hi>Henry</hi> King, <hi>becauſe they were affraid to be long without Government.</hi>
+               </p>
+               <p>Fourthly, <hi>Florence</hi> of <hi>Worceſter, William</hi> of <hi>Malmsbu<g ref="char:EOLhyphen"/>ry, R. Hoveden,</hi> and <hi>R. Hagulſtadenſis,</hi> do expreſsly ſay, that <hi>Stephen was choſen King by the Primates of the Kingdom,</hi>
+                  <note place="margin">A Primoribus Regni, cum fa<g ref="char:EOLhyphen"/>vore Cleri &amp; Populi, electus. R. Hagulſt. <hi>p.</hi> 312. Flor. Wigorn. <hi>p.</hi> 665. Hoved. <hi>F.</hi> 215. Malm sb. <hi>F.</hi> 101. <hi>B.</hi>
+                  </note> 
+                  <hi>with the favour of the Clergy, and Laity;</hi> and that he took upon him the King<g ref="char:EOLhyphen"/>dom <hi>with their General conſent;</hi>
+                  <note place="margin">A ſcenſu Populi &amp; Cleri in Re<g ref="char:EOLhyphen"/>gem electus. Malmsb <hi>Hiſt. Nov. l.</hi> 1. <hi>F.</hi> 101. B. R. Hagulſt. <hi>p.</hi> 314.</note> and his own <hi>Charters</hi> ſay the ſame thing, as they had reaſon to do, <hi>he having no Title at all, but as one of the Bloud, by mere Election advanced to the Crown.</hi>
+                  <note place="margin">Daniel, p. 69.</note>
+               </p>
+               <p>Fifthly, <hi>Radulphus de Diceto,</hi>
+                  <note place="margin">Ab omnibus electus, <hi>p.</hi> 529.</note> Saith of <hi>Henry</hi> the <hi>Second,</hi> That <hi>he was Elected by all, and annointed by</hi> Theobald, <hi>Arch-Biſhop of</hi> Canterbury.</p>
+               <p>Sixthly, And of <hi>Richard</hi> the <hi>Firſt</hi> he ſaith,<note place="margin">Poſt tum Cleri &amp; Populi So<g ref="char:EOLhyphen"/>lennem &amp; de<g ref="char:EOLhyphen"/>bitam Electi<g ref="char:EOLhyphen"/>onem. <hi>p.</hi> 647.</note> That <hi>be<g ref="char:EOLhyphen"/>ing to be promoted to be King by right of Succeſſion, after the ſolemn and due Election, both of the Clergy, and Laity, he took a Threefold Oath. Hoveden</hi> adds, that <hi>he was Conſecrated, and Crowned King of</hi> En<g ref="char:EOLhyphen"/>gland,<note place="margin">
+                     <hi>F.</hi> 374.</note> conſilio &amp; aſſenſu, <hi>by the Council and aſſent of the Arch-Biſhops, Biſhops, Counts, and Barons.</hi>
+               </p>
+               <pb n="38" facs="tcp:51914:25"/>
+               <p>Seventhly,<note place="margin">P. 127. Archiepiſco<g ref="char:EOLhyphen"/>pus dixit, quod nullus praevia rati<g ref="char:EOLhyphen"/>one alij ſucce<g ref="char:EOLhyphen"/>dere habet Regnum, niſi ab univerſita<g ref="char:EOLhyphen"/>te Regni una<g ref="char:EOLhyphen"/>nimiter, Spi<g ref="char:EOLhyphen"/>ritus Sancti invocata gratia, electus, &amp; ſecundùm morum eminentiam praeelectus, omnes hoc acceptabant, ipſum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Comitem in Regem eligentes, &amp; aſſumentes, ex<g ref="char:EOLhyphen"/>clamant, dicentes, Vivat Rex. Matth. Paris, <hi>p.</hi> 138.</note> King <hi>John</hi> received the <hi>Crown</hi> by way of Election; <hi>as being choſen by the States,</hi> ſaith <hi>Daniel. Matthew Paris</hi> ſaith, That <hi>all conſented to the Speech of the Arch-Biſhop, that none ought to Succeed another in the Kingdom, unleſs he were elected by the Community, and thereupon they elected the Count, and took him for their King.</hi>
+               </p>
+               <p>Eightly,<note place="margin">In Regem eli<g ref="char:EOLhyphen"/>gitur. <hi>p.</hi> 474.</note> The <hi>History</hi> of <hi>Croyland</hi> ſaith, That <hi>after the death of King</hi> John, Henry, <hi>his firſt born, was elected King.</hi>
+               </p>
+               <p>Ninthly,<note place="margin">Non tam jure haereditario quam unani<g ref="char:EOLhyphen"/>mi aſſenſu Procerum, &amp; Magnatum. Edward Franc. <hi>An.</hi> 1602. <hi>p.</hi> 95.</note> 
+                  <hi>The Succeſſion of</hi> Edward <hi>the</hi> Second, ſaith <hi>Walſingam, Was not ſo much by right of Inheri<g ref="char:EOLhyphen"/>tance, as by the unanimous conſent of the Peers, and great Men.</hi>
+               </p>
+               <p>Tenthly, <hi>Edward</hi> the <hi>Third</hi> was elected <hi>with the <g ref="char:V">Ʋ</g>niverſal conſent of the People upon his Father's Reſignation:</hi>
+                  <note place="margin">Walſing. <hi>Hiſt.</hi> Angl. <hi>p.</hi> 126. <hi>Hypod. Neuſt.</hi> p. 508.509. H. <hi>de</hi> Knygh<g ref="char:EOLhyphen"/>ton, <hi>p.</hi> 2550.</note> The <hi>Parliament</hi> then met at <hi>London,</hi> declared <hi>by common conſent,</hi> That <hi>Edward</hi> the <hi>Second</hi> was unworthy of the <hi>Crown,</hi> and for many Cauſes to be depoſed, and that his firſt born Son <hi>Edward</hi> ſhould unanimouſly be choſen <hi>King;</hi> then the E<g ref="char:EOLhyphen"/>lection is publickly declared in <hi>Weſtminſter-hall,</hi> ſome of both Houſes are ſent to <hi>Edward</hi> the <hi>Second, qui nunciarent Electionem filij ſui, who ſhould acquaint him with the Election of his Son, and require him to reſign the Crown;</hi> Electioni conſenſit populus uni<g ref="char:EOLhyphen"/>verſus,
+<pb n="39" facs="tcp:51914:25"/>
+                  <hi>all the people conſented to the Election;</hi> ſo did <hi>all the Prelates, and the Arch-Biſhop, who made an O<g ref="char:EOLhyphen"/>ration on thoſe words,</hi> Vox populi vox Dei, <hi>and ex<g ref="char:EOLhyphen"/>horted all to pray for the King Elect.</hi>
+               </p>
+               <p>Eleventhly, <hi>Richard</hi> the <hi>Second</hi> ſucceeded <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> by right of Succeſſion,<note place="margin">H. <hi>de</hi> Knyght. <hi>p.</hi> 2630.</note> ac etiam voto com<g ref="char:EOLhyphen"/>muni ſingulorum, <hi>and by the Common ſuffrage of all.</hi>
+               </p>
+               <p>Twelfthly, <hi>Henry</hi> the <hi>Fourth, Fifth,</hi> and <hi>Sixth</hi> were only <hi>Kings</hi> by Act of <hi>Parliament.</hi>
+               </p>
+               <p>Thirteenthly, <hi>Edward</hi> the <hi>Fourth,</hi> at his en<g ref="char:EOLhyphen"/>trance on the Government, makes a ſolemn De<g ref="char:EOLhyphen"/>claration of his Right to the Crown of <hi>England,</hi> challenging it to belong unto him by a double Right, the firſt <hi>as Son and Heir to</hi> Richard <hi>Duke of</hi> York,<note place="margin">Truſſel. 179.</note> 
+                  <hi>the Rightfull Heir of the ſame;</hi> the ſecond <hi>as elected by the Authority of the Parliament, upon King</hi> Henry's <hi>forfeit of it.</hi>
+               </p>
+               <p>Fourteenthly, The <hi>Parliament Roll</hi> publiſhed in <hi>Speed</hi>'s <hi>Chronicle</hi> often ſaith,<note place="margin">p. 913, 914.</note> That <hi>they had choſen</hi> Richard <hi>the</hi> Third <hi>for their King, and that the Crown belonged to him as well by Election as Succeſſion.</hi>
+               </p>
+               <p>Fifthteenthly, And <hi>Henry</hi> the <hi>Seventh,</hi>
+                  <note place="margin">
+                     <hi>Bacon.</hi> Hiſt. of <hi>Hen.</hi> VII. p. <hi>12.</hi>
+                  </note> to all his other Titles <hi>by Marriage, Conqueſt, and from the Houſe of</hi> Lancaſter, adds that of <hi>the Authority of Parliament.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="40" facs="tcp:51914:26"/>
+               <head>
+                  <hi>SECT. V.</hi> That we find mention in Hiſtory of divers Acts of Parliament, or of the Nobles of the Kingdom, continuing the Name and Honour of a King to him, who, by their own confeſſion, had not the immediate Title to the Kingdom, and only Pro<g ref="char:EOLhyphen"/>claiming him, who had the Right by Proximity of Bloud, Heir Apparent to the Crown.</head>
+               <p>
+                  <hi>5ly,</hi> MOreover we read of divers Acts of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> or of the <hi>Nobles</hi> of the <hi>Kingdom,</hi> con<g ref="char:EOLhyphen"/>tinuing the Name and Honour of a <hi>King</hi> to him, who, by their own Confeſſion, had not the juſt Ti<g ref="char:EOLhyphen"/>tle, and only Proclaiming him, who had the Right by <hi>proximity of Bloud, Heir apparent</hi> to the <hi>Crown:</hi> For inſtance.</p>
+               <p>The Conteſt betwixt <hi>Robert</hi> the Eldeſt Son of the <hi>Conquerour,</hi>
+                  <note place="margin">Ad haec etiam inter ſe con<g ref="char:EOLhyphen"/>ſtituerunt, ut ſi comes abſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> filio legali in Matrimonio genito more<g ref="char:EOLhyphen"/>retur, haeres ejus eſſet Rex; modo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> per omnia ſimili, ſi Regi contigiſſet mori, haeres illius fieret Comes, hanc conventionem. 12 ex parte Regis, &amp; 12 ex parte Comitis Barones Juramento firmaverunt. Flor Wigorn. <hi>p.</hi> 644.</note> and <hi>William Rufus</hi> his younger Bro<g ref="char:EOLhyphen"/>ther, ended thus, That <hi>f</hi> Robert <hi>dyed without a Law<g ref="char:EOLhyphen"/>full Son, King</hi> William <hi>ſhould be his Heir, and if King</hi> William <hi>dyed without iſſue,</hi> Robert <hi>ſhould be his Heir; and this was Sworn to by twelve Barons of each ſide.</hi>
+               </p>
+               <pb n="41" facs="tcp:51914:26"/>
+               <p>In the conteſt betwixt the ſame <hi>Robert,</hi> and his younger Brother <hi>Henry,</hi>
+                  <note place="margin">Principes, M. Paris, <hi>p.</hi> 40. Hen. Hunting. <hi>F.</hi> 216. <hi>B.</hi> Joh. Bromp. <hi>p.</hi> 998.</note> the <hi>Prin<g ref="char:EOLhyphen"/>ces,</hi> ſay ſome of our <hi>Hiſtorians, the wiſe men of our Kingdom,</hi> ſay o<g ref="char:EOLhyphen"/>thers,<note place="margin">Sapientiores utriuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> partis, Dunelm. <hi>p.</hi> 226. Flor. Wigorn. <hi>p.</hi> 650. R. Hoveden, <hi>F.</hi> 268. <hi>B.</hi> Daniel <hi>p.</hi> 61.</note> 
+                  <hi>made a Mutual, and general League of Concord, by their Pious, and Wiſe Council; That</hi> Henry <hi>the</hi> Firſt,<note place="margin">Amiciutriuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> foedus inter eos ſtatuerunt ſic, quod Rex propter mani<g ref="char:EOLhyphen"/>feſtum jus quod habuit ad Regnum poſſidendum, Roberto ſin<g ref="char:EOLhyphen"/>gulis Annis tria millia Marcarum Ar<g ref="char:EOLhyphen"/>genti daret ab Anglia, &amp; quis eorum diutius viveret, Haeres eſſet alterius, ſi abſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> filio morere<g ref="char:EOLhyphen"/>tur. M. Weſtm. <hi>p.</hi> 236. Henr. Huntingd. <hi>Hiſt. l.</hi> 7. <hi>F.</hi> 216. <hi>B.</hi> M. Par. <hi>p.</hi> 40.</note> 
+                  <hi>being inveſted with the Crown by Act of the Kingdom, ſhould enjoy the ſame during life, and that by reaſon of the manifeſt Right which</hi> Robert <hi>had to the Kingdom;</hi> Henry <hi>ſhould pay him</hi> 3000 <hi>Marks yearly, and that the longeſt liver ſhould be Heir to the other, if he died without a Son;</hi> by which Acts, if <hi>William Rufus,</hi> or <hi>Henry</hi> had Sons, they were to Reign, though the manifeſt Right was in <hi>Robert,</hi> and his <hi>Heirs.</hi>
+               </p>
+               <p>And here it is obſervable,<note place="margin">Maxima pars Nobiliorum Normanno<g ref="char:EOLhyphen"/>rum favebat Roberto, cu<g ref="char:EOLhyphen"/>piens hunc ſi<g ref="char:EOLhyphen"/>bi aſciſcere in Regem, fra<g ref="char:EOLhyphen"/>trem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> aut fratri tradere vivum, aut Regno priva<g ref="char:EOLhyphen"/>re peremp<g ref="char:EOLhyphen"/>tum; hujus ex<g ref="char:EOLhyphen"/>ecrandae rei principes extitêre Odo, &amp;c. hoc execrabile factum clam tractaverunt in quadrageſi<g ref="char:EOLhyphen"/>ma. Florent <hi>p.</hi> 642. Dunelm. <hi>A. D.</hi> 1088. Hoved. <hi>par.</hi> 1. <hi>F.</hi> 264, Radulph. <hi>de</hi> Diceto <hi>p.</hi> 489. Proditores vocat H. Huntingd. <hi>Hiſt. l.</hi> 7. <hi>F.</hi> 213. Perfides, W. Malmsb. <hi>Hiſt. l.</hi> 4. <hi>F.</hi> 68. Conjurationis &amp; perfidiae Socios. Florent. <hi>p.</hi> 643. Perjurij Reos, Matth. Paris, <hi>p.</hi> 10.</note> that though the greateſt part of the <hi>Nobles</hi> did upon ſome diſlike to <hi>Rufus,</hi> to whom they had ſworn Allegiance, fa<g ref="char:EOLhyphen"/>vour his Brother <hi>Robert, deſiring to advance him to the Kingdom, and to deſtroy</hi> William, <hi>or deliver him alive to his Brother;</hi> yet do all our <hi>Hiſtorians</hi> declare, that they who ſided with <hi>William, were faithfull to their Earthly Lord,</hi> and the other party were <hi>Traiterous, Perfidious</hi> and <hi>Perjured Perſons,</hi> and that the thing it ſelf was <hi>an excrable fact.</hi>
+               </p>
+               <pb n="42" facs="tcp:51914:27"/>
+               <p>And in like manner they who ſtood for <hi>Henry</hi> againſt the ſame <hi>Robert,</hi>
+                  <note place="margin">
+                     <hi>L.</hi> 5. <hi>de</hi> Henr. <hi>primo. F.</hi> 88.</note> who had manifeſt right, are ſaid by <hi>W.</hi> of <hi>Malmsbury,</hi> juſtas partes fovere, <hi>to be of the right ſide,</hi> and they who fought againſt him, to be <hi>fidei Regi juratoe transfugoe,</hi> violaters of their Oath, and yet this <hi>Henry</hi> was advanced to the Throne, not becauſe he had Right during the life of his Elder Brother; but becauſe <hi>Robert</hi> being gone to the Wars at <hi>Jeruſalem,</hi>
+                  <note place="margin">Quia ignora<g ref="char:EOLhyphen"/>bant quid ac<g ref="char:EOLhyphen"/>tum eſſet de Roberto fra<g ref="char:EOLhyphen"/>tre primoge<g ref="char:EOLhyphen"/>nito, &amp; timuerunt diu ſine Regimine vacillare. Matth. Paris <hi>p.</hi> 38.</note> 
+                  <hi>they knew not what was become of him, and were affraid to be long with<g ref="char:EOLhyphen"/>out Government.</hi>
+               </p>
+               <p>But to proceed to other inſtances of this Nature from <hi>Hiſtory.</hi> In the conteſt between King <hi>Ste<g ref="char:EOLhyphen"/>phen,</hi> and <hi>Henry</hi> Duke of <hi>Normandy,</hi> the Son of the Empreſs <hi>Maud,</hi> and the Right Heir of the Crown, <hi>Theobald</hi> Arch-biſhop of <hi>Canterbury,</hi> and <hi>Henry.</hi> Biſhop of <hi>Winton,</hi>
+                  <note place="margin">Rich. Hagulſt. <hi>p.</hi> 330. H. Hun<g ref="char:EOLhyphen"/>tind. <hi>l.</hi> 8. <hi>F.</hi> 228. Joh. Brompt. <hi>Chron. p.</hi> 1037. Gervaſ. <hi>Chron. p.</hi> 1375. <hi>Chron. de</hi> Mailros. <hi>p.</hi> 167.</note> made peace be<g ref="char:EOLhyphen"/>twixt them upon theſe conditions; That <hi>King</hi> Stephen <hi>from that time, ſhould entirely enjoy the Kingdom, as lawfull Prince, with the Glory and Ho<g ref="char:EOLhyphen"/>nour of it, and</hi> Henry <hi>ſhould ſucceed him in the Kingdom as lawfull Heir.</hi> This peace was thus made, <hi>by the Counſel of the Wiſe Men, and the intervention of the Nobles, and Friends of both parties, and was declar'd to be honeſt and profitable,</hi>
+                  <note place="margin">R. Stephanus Ducem Hen. cognovit in conventu E<g ref="char:EOLhyphen"/>piſcoporum, &amp; aliorum. Regni Optimatum, quod jus Hereditarium in Regnum Angliae habebat, &amp; Dux benignè conceſſit, ut R. Stephanus tota vita ſua, ſi velle, Regnum pacifice poſſideret M. Paris <hi>p.</hi> 61, M. Weſtm. <hi>p.</hi> 246.</note> and ſaith <hi>M. Paris, it was concluded in a publick Convention of the Biſhops, and Nobles of the Kingdom.</hi>
+               </p>
+               <pb n="43" facs="tcp:51914:27"/>
+               <p>
+                  <hi>Fourthly,</hi> Thus was it alſo in the Caſe of <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> Duke of <hi>York,</hi> and <hi>Henry</hi> the <hi>Sixth,</hi> for though <hi>Richard</hi> was the Right Heir to the King<g ref="char:EOLhyphen"/>dom;<note place="margin">Quod Dux &amp; filij ſui, Ed<g ref="char:EOLhyphen"/>vardus Comes Marchiae, &amp; Edmundus Comes Rut<g ref="char:EOLhyphen"/>landiae, qui ambo diſcre<g ref="char:EOLhyphen"/>tionis annos attigerant, jurarent ipſi Regi fidelitatem, quodque ipſum recognoſcerent eorum Regem quamdiu ageret in humanis, id enim Parliamentum ipſum decreverat, ad<g ref="char:EOLhyphen"/>dendo, de ipſius Regis conſenſu, quod quamprimum Rex ipſe in fata deceſſerit, licebit dicto Duci ſuiſque Haeredibus coronam Angliae vendicare, &amp; poſſidere. <hi>Hiſt. Coryl.</hi> Ed. Oxon. <hi>p.</hi> 550.</note> yet the <hi>Parliament,</hi> held <hi>A. D.</hi> 1460. decreed that <hi>Henry the Sixth ſhould reign, and be King du<g ref="char:EOLhyphen"/>ring his Life, and that the remainder ſhould reſt in</hi> Richard <hi>Duke of</hi> York, <hi>and the lawfull Heirs of his Body, in general tail.</hi>
+               </p>
+            </div>
+            <div n="6" type="section">
+               <head>
+                  <hi>SECT. VI.</hi> The Inferences from the Reſolutions of the beſt Caſuiſts, to prove that the Oath of <hi>Allegiance,</hi> and of the Coronation, are reciprocal; and conſequently that the obligation of the Oath of <hi>Allegiance</hi> doth ceaſe, when the Original Compact is Fundamentally violated.</head>
+               <p>NOw the Inferences which naturally flow from this <hi>Historical</hi> Account of the <hi>Kings</hi> of <hi>England,</hi> and their <hi>Government,</hi> are theſe:</p>
+               <p>
+                  <hi>First,</hi> That the <hi>Kings</hi> of <hi>England</hi> were <hi>Kings</hi> by virtue of an <hi>Original Compact,</hi> made between them
+<pb n="44" facs="tcp:51914:28"/>and the People: this is apparent by the Contract made by the <hi>Conquerour</hi> with the <hi>Barons,</hi> and the <hi>Nobility,</hi> and <hi>Commonalty</hi> of <hi>England;</hi> and the ſo frequent repetition of that, or a like Contract by the following <hi>Princes</hi> of this Realm, by the Oaths they took at their Coronation, to preſerve to the People their <hi>Ancient Rights, and Liberties,</hi> their <hi>Original Customs and Laws;</hi> and by the continual claim the people made to the Laws of their <hi>Coun<g ref="char:EOLhyphen"/>try,</hi> the Laws of <hi>King Edward,</hi> and the <hi>Magna Charta</hi> as their Right.</p>
+               <p>Accordingly the <hi>Lord Chancellour Forteſcue,</hi>
+                  <note place="margin">Chap. 9.13.</note> ha<g ref="char:EOLhyphen"/>ving declared that our <hi>Kings are Political Kings, who received their Power from the People;</hi> he adds, That,<note place="margin">Chap. 14. p. 34.</note> non alio pacto, <hi>by no other Contract did ever any Nation willingly incorporate it ſelf into a Kingdom; but that they by that means might more ſafely than be<g ref="char:EOLhyphen"/>fore enjoy Themſelves, and their Goods, of which in<g ref="char:EOLhyphen"/>tent that Nation would be defrauded; if having thus ſubmitted to the Government of a King, he might ſpoil them of their Goods, which before it was not Law<g ref="char:EOLhyphen"/>full for any man to do.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> That this Compact was, That the <hi>King</hi> ſhould govern them according to the Tenor of ſuch <hi>Ancient Laws,</hi> and <hi>Original Cuſtomes</hi> as were received among them, according to <hi>the Good, Ap<g ref="char:EOLhyphen"/>proved, and Ancient Laws of the Kingdom,</hi> ſaith <hi>M. Paris, the Liberties in which the Nobles confided,</hi> ſaith <hi>M.</hi> of <hi>Westminster; the Laws of their Country,</hi> ſaith <hi>W.</hi> of <hi>Malmsbury; the Laws of</hi> King Edward, ſay the forementioned <hi>Authours; the Proper Laws,
+<pb n="45" facs="tcp:51914:28"/>and Ancient Customs in which their Fathers lived,</hi> ſay <hi>Hoveden,</hi>
+                  <note place="margin">Stat. Merton. c. 9.25. H. 8. c. 21.</note> and the <hi>Chronicle of</hi> Lichfield; <hi>the Laws of</hi> England, <hi>the Ancient Laws of this Realm origi<g ref="char:EOLhyphen"/>nally establiſhed,</hi> ſay our <hi>Statutes; the Laws of the Land, the good Laws of the Land,</hi> ſaith the Oath of <hi>Richard</hi> the <hi>Second; the Charters of the Liberties of</hi> England, <hi>the Common Liberty,</hi> ſay the contenders for them with <hi>King John</hi> and <hi>Henry</hi> the <hi>Third; the fundamental Laws of the Kingdom,</hi> ſaith <hi>King James:</hi> Let it be obſerved,</p>
+               <p>
+                  <hi>First,</hi> Out of <hi>Forteſcue,</hi> That <hi>our Kings rule not by Royal only,</hi>
+                  <note place="margin">Ch. 9. p. 25, 26. Ch. 13. p. 32.</note> that is, Abſolute, but by <hi>Political Power;</hi> and that therefore a <hi>King of</hi> England <hi>cannot change the Laws of the Body, nor invade their Pro<g ref="char:EOLhyphen"/>perties, but as they do conſent,</hi>
+                  <note place="margin">Ch. 13. p. 32. c. 14. p. 34.</note> that <hi>he is advanced to the Throne for the ſafety of the Law, and his Sub<g ref="char:EOLhyphen"/>jects in their Goods, and Bodies, and derives even this Power from the People; and therefore cannot Lawfully Rule over them otherwiſe.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> That this is the difference betwixt a <hi>King</hi> Governing <hi>Abſolutely,</hi> and by <hi>Political Power,</hi> that the <hi>firſt can change the Laws of his Kingdom,</hi>
+                  <note place="margin">F. 25. B. 26. A.</note> 
+                  <hi>impoſe Taxes, and other burthens without conſent of his Subjects;</hi> whereas a King who Rules <hi>Politically</hi> over his People <hi>can neither change the Laws, without conſent of his Subjects, nor charge them with strange impoſitions againſt their Wills;</hi> That a <hi>King</hi> ruling only by Power <hi>Royal</hi> may eaſily become a Tyrant, but <hi>whilſt the Kingly Power is reſtrained by the Po<g ref="char:EOLhyphen"/>litical Law,</hi>
+                  <note place="margin">F. 26. B.</note> he cannot govern his People <hi>Tyranni<g ref="char:EOLhyphen"/>cally:</hi> That the Contract made with a <hi>King</hi> gover<g ref="char:EOLhyphen"/>ning
+<pb n="46" facs="tcp:51914:29"/>
+                  <hi>Abſolutely,</hi>
+                  <note place="margin">F. 35. A.</note> is, that <hi>his Will ſhall be the Law;</hi> whereas a <hi>Political King</hi> cannot govern his Peo<g ref="char:EOLhyphen"/>ple by any other Power than that of the Laws.</p>
+               <p>And from theſe Principles it clearly follows, That a <hi>King</hi> Ruling Arbitrarily, and Fundamentally, overturning the Laws, is no ſuch <hi>King</hi> as our Con<g ref="char:EOLhyphen"/>ſtitution knows, or ever did admit of; That there<g ref="char:EOLhyphen"/>fore no <hi>Obedience,</hi> or <hi>Allegiance</hi> can be due to him by Law, nor be intended in any <hi>Legal Oath,</hi> un<g ref="char:EOLhyphen"/>leſs we can ſuppoſe men at the ſame time inten<g ref="char:EOLhyphen"/>ded to preſerve their Conſtitution, and yet deſig<g ref="char:EOLhyphen"/>ned to engage themſelves, and others to be aſſi<g ref="char:EOLhyphen"/>ſtant to ſubvert it.</p>
+               <p>
+                  <hi>Thirdly,</hi> Let us conſider the Rules laid down by the exacteſt <hi>Caſuiſts,</hi> touching the Caſes in which the obligation of an Oath ceaſeth, and apply them to the preſent Caſe. Thus then they ſay:</p>
+               <p>Firſt, That <hi>when the Matter of an Oath ceaſeth, the Obligation of it ceaſeth alſo,</hi> and that <hi>the Matter of it muſt then be judged to ceaſe,</hi>
+                  <note place="margin">Tunc enim ceſſaſſe materiam cenſendum eſt, cum rerum ſta<g ref="char:EOLhyphen"/>tus inter tempus jurandi, &amp; tem<g ref="char:EOLhyphen"/>pus adimplendi, ita immutatus eſt, ut ſi quo tempore jurabatur, praevideri potuiſſet is qui po<g ref="char:EOLhyphen"/>ſtea inſecutus eſt rerum ſtatus, non omnino juratum fuiſſet. San. <hi>de Juramento Prael.</hi> 7. § 7.</note> 
+                  <hi>when the ſtate of things betwixt the time of Swearing, and of fulfilling the Oath, is ſo changed, that if it could have been foreſeen by him who took the Oath, at the time of his Swearing, he would not have taken the Oath. When the Root of the Obligati<g ref="char:EOLhyphen"/>on is taken away,</hi>
+                  <note place="margin">Quia Radice obligation is ſublatâ, tollitur unà pullulans inde obligatio; fuit autem materia, quae cauſam dedit jurationi, Radix ejus obligationis, quae ex illa juratione inſecuta eſt. <hi>Ibid.</hi>
+                  </note> 
+                  <hi>the Obligation thence
+<pb n="47" facs="tcp:51914:29"/>ariſing muſt be taken away with it;</hi> now that which <hi>gave the ground for taking the Oath, is the Root of the Obligation, which followed upon the Oath.</hi>
+               </p>
+               <p>Among the conditions which are <hi>de jure commu<g ref="char:EOLhyphen"/>ni</hi> to be underſtood in all Oaths, though they be not expreſſed; this, ſaith the <hi>Reverend Biſhop San<g ref="char:EOLhyphen"/>derſon,</hi>
+                  <note place="margin">Subingtelli<g ref="char:EOLhyphen"/>gendum quar<g ref="char:EOLhyphen"/>to, rebus ſc<g ref="char:EOLhyphen"/>ſtantibus, i. e. ſi res in eo<g ref="char:EOLhyphen"/>dem ſtatu per<g ref="char:EOLhyphen"/>manſerint quo nunc ſunt, unde qui juravit reddere gla<g ref="char:EOLhyphen"/>dium, non te<g ref="char:EOLhyphen"/>netur reddere furioſo, &amp; qui juravit ducere aliquam uxorem, non tenetur ducere, ſi deprehendat eam eſſe ex alio viro gravi<g ref="char:EOLhyphen"/>dam: has, &amp; iſtiuſmodi conditiones in omni juramento ſubintelligi fas eſt, etſi non exprimantur; &amp; rigidus nimis eſſet juramenti Interpres qui iſtarum aliquam ex<g ref="char:EOLhyphen"/>cluſum iret. <hi>Prael.</hi> 2. §. 10.</note> and many of the <hi>School-men,</hi> is one, <hi>viz. That things continue, and remain in the ſame ſtate they were at the time of ſwearing; whence he that ſwore to reſtore a Sword, is not bound to do it to a mad-man; and he that ſwore to marry ſuch a Woman, is not bound to do it, if he finds her afterwards with Child by another: theſe, and ſuch like conditions, though they be not expreſſed, are to be underſtood in all Oaths; and he that ſhould exclude any of them, would too rigidly interpret his Oath.</hi>
+               </p>
+               <p>Secondly, <hi>Ameſius</hi> adds,<note place="margin">In Juramento ſubintelligi debent con<g ref="char:EOLhyphen"/>ditiones illae, quae ex mo<g ref="char:EOLhyphen"/>re &amp; conſue<g ref="char:EOLhyphen"/>tudine recep<g ref="char:EOLhyphen"/>râ concipi praeſumuntur ab iis ad quos juramentum ſpectar. <hi>De Caſ. Conſc. l.</hi> 4. <hi>c.</hi> 22.</note> that <hi>in an Oath all thoſe conditions are to be underſtood, which by the received Cuſtoms and Manners of a Nation, are preſumed to be conceived as conditions belonging to it.</hi>
+               </p>
+               <p>And that <hi>when the formal reaſon of an Oath is ta<g ref="char:EOLhyphen"/>ken away, the Oath ceaſeth,</hi>
+                  <note place="margin">Quum aufer<g ref="char:EOLhyphen"/>tur ratio for<g ref="char:EOLhyphen"/>malis jura<g ref="char:EOLhyphen"/>menti, juramentum ceſſat ratione eventûs, qui caſus eſt eorum qui juràrunt ſe obe<g ref="char:EOLhyphen"/>dituros domino aut principi alicui qui poſtea ceſſat eſſe talis. <hi>Ibid.</hi> § 36. Nec tene<g ref="char:EOLhyphen"/>bitur, ſi ceſſet qualitas ſub qua alicui juravit, ut ſi Magiſtratus deſinat eſſe Magiſtra<g ref="char:EOLhyphen"/>tus. Crot. <hi>de Jure Bel, &amp; Pac. l.</hi> 2. <hi>c.</hi> 13. §. 18.</note> and that <hi>this is the Caſe
+<pb n="48" facs="tcp:51914:30"/>of them who ſwear to a Prince, or to a Maſter, who after ceaſeth ſo to be.</hi>
+               </p>
+               <p>Thirdly, The <hi>Caſuiſts</hi> farther tells us, that a <hi>pro<g ref="char:EOLhyphen"/>miſſory Oath,</hi> made purely on ſuch a Motive, and Foundation, ſuppoſeth the continuance of that Foundation, as the condition of its Obligation; and therefore ceaſeth to oblige, when he to whom, and for whoſe ſake it was made, tollit fundamentum illud quo nitebatur, <hi>removes the Motive and Foun<g ref="char:EOLhyphen"/>dation of it.</hi>
+                  <note place="margin">Saunderſ. <hi>de juramento prae<g ref="char:EOLhyphen"/>lect.</hi> 4. <hi>p.</hi> 99. Tombs <hi>lect.</hi> 18. <hi>p.</hi> 23.</note> For inſtance, <hi>Chremes the Maſter ſwears he will give to</hi> Soſia <hi>ten Crowns</hi> per annum, <hi>and</hi> Soſia <hi>the Servant ſwears to ſerve him eight years, if</hi> Soſia <hi>will not ſerve him the third year,</hi> Cremes <hi>is not obliged to pay him ten Crowns at the years end; or if</hi> Cremes <hi>will not pay</hi> Soſia <hi>at the years end,</hi> Soſia <hi>is not bound to ſerve him eight years; becauſe this payment was the Sole foundation of</hi> Soſia<hi>'s ſer<g ref="char:EOLhyphen"/>vice, this ſervice the Sole motive of</hi> Chremes<hi>'s Oath.</hi>
+               </p>
+               <p>Fourthly, They add, That without which it cannot in equity, and reaſon be ſuppoſed that any reaſonable man would, or any honeſt man ſhould take an Oath, muſt be ſuppoſed as a tacit condition in the taking of it; ſo that no perſon is to be ſup<g ref="char:EOLhyphen"/>poſed to ſwear to doe any thing, but with this pro<g ref="char:EOLhyphen"/>viſo, as far as it is conſiſtent with equity and ju<g ref="char:EOLhyphen"/>ſtice: Thus though <hi>Solomon</hi> promiſed to his <hi>Mo<g ref="char:EOLhyphen"/>ther</hi> not to ſay nay to her requeſt, yet when ſhe asked <hi>Abiſhag</hi> the <hi>Shunamite,</hi> to be given to Wife to <hi>Adonijah,</hi> becauſe the Marriage would have been inceſtuous, or would have given him a pre<g ref="char:EOLhyphen"/>tence
+<pb n="49" facs="tcp:51914:30"/>for diſturbing of the <hi>Kingdom, Solomon</hi> breaks his promiſe, and thereby ſhews that it was made with this proviſo; if I may ſafely and equitably do it. Hence they inſer that the Laws of Nature, and Self-Preſervation muſt give tacit limitations to our promiſſory Oaths, where they are general, and not expreſſive of Life and Death; becauſe we have an Obligation to them antecedent to all Oaths; nor can it rationally be ſuppoſed that a man would promiſe to ruine and deſtroy himſelf, where the publick good did not make it neceſſary ſo to doe.</p>
+               <p>If then the <hi>Kings</hi> of <hi>England</hi> be <hi>Kings</hi> by virtue of a Compact, originally made betwixt them, and the people; if the Tenor of that Compact be on the <hi>King's</hi> part, that he would <hi>govern them according to the Tenor of their Ancient Laws, Liberties, Charters,</hi> and <hi>Cuſtoms;</hi> or as the Coronation <hi>Oath</hi> now runs, that <hi>he will confirm to the people of</hi> En<g ref="char:EOLhyphen"/>gland <hi>the Laws and Cuſtoms to them granted by the Kings of</hi> England; that <hi>he will grant to hold, and keep the Laws, and rightfull Cuſtoms which the Com<g ref="char:EOLhyphen"/>monalty of his Kingdom have, and to defend, and up<g ref="char:EOLhyphen"/>hold them as much as in him lieth;</hi> that <hi>he will pre<g ref="char:EOLhyphen"/>ſerve, and maintain to the Biſhops, and the Churches committed to their Charge all Canonical Privileges, and due Law and Juſtice, and will be their Protector and Defender to his Power,</hi> and this <hi>Oath,</hi> and <hi>Com<g ref="char:EOLhyphen"/>pact</hi> be on the part of the Subject the very ground for his entring into a Promiſe, and <hi>Oath</hi> of <hi>Allegi<g ref="char:EOLhyphen"/>ance,</hi> the very formal Reaſon of it, the Motive, and Foundation upon which it is built: When any
+<pb n="50" facs="tcp:51914:31"/>
+                  <hi>King</hi> of <hi>England</hi> afterward makes void his <hi>Oath</hi> by an entire virtual diſſolution of thoſe Laws he had by <hi>Oath</hi> engaged himſelf to keep and confirm, and plainly ſets himſelf to deſtroy that <hi>Church</hi> he ſwore to protect and defend, and to deny them all due Law and Juſtice; he ſeemeth by juſt conſequence to have made void the Motive, and Foundation of that <hi>Allegiance</hi> they ſwore to him.</p>
+               <p>
+                  <hi>Grotius</hi> informs us, that <hi>the promiſe of a King to his Subjects gives them a right to the thing promiſed, that being the Nature of all Promiſes and Contracts:</hi> And this it doth more certainly when it is only a promiſe of what was <hi>originally</hi> their Right confirmed by his <hi>Oath,</hi>
+                  <note place="margin">Dicimus ergo ex promiſo &amp; contractu Regis, quem cum ſub<g ref="char:EOLhyphen"/>ditis iniit, naſci veram &amp; pro<g ref="char:EOLhyphen"/>priam obligationem quae jus dat ipſis ſubditis, ea enim eſt &amp; promiſſorum, &amp; contractuum natura. <hi>De jure Bel. &amp; pacis, l.</hi> 2. c. 14. §. 8.</note> and the very condition upon which they accepted of him or his <hi>Progenitors</hi> as their <hi>Kings,</hi> for as he rationally adds, <hi>if a People make a King by ſuch Laws,</hi>
+                  <note place="margin">Plane ſi populus Regem fece<g ref="char:EOLhyphen"/>rit non pleno jure, ſed additis legibus, poterunt per eas leges contrarij actus irriti fieri aut omnino, aut ex parte, quia ea<g ref="char:EOLhyphen"/>tenus populus jus ſibi ſervavit. <hi>Ibid.</hi> §. 2.</note> 
+                  <hi>they make void what he doth contrary to Law, becauſe as to ſuch things they have reſerved the Right unto them<g ref="char:EOLhyphen"/>ſelves,</hi> or at the leaſt they have li<g ref="char:EOLhyphen"/>mitted his Right; but to what end is all this, if by their <hi>Oath</hi> of <hi>Allegiance</hi> after<g ref="char:EOLhyphen"/>wards they virtually diſannull that Right they had reſerved to themſelves, take off all limitations of the <hi>King's</hi> Right, and put it in his power to break all his promiſes without controll, by binding them<g ref="char:EOLhyphen"/>ſelves to the ſame <hi>Allegiance</hi> to him when he doth ſo, as when he ruleth them by Law, and obſerves his promiſes and contracts? If therefore that muſt
+<pb n="51" facs="tcp:51914:31"/>be ſuppoſed as a tacit condition of an Oath with<g ref="char:EOLhyphen"/>out which it cannot in equity and reaſon be ſup<g ref="char:EOLhyphen"/>poſed that any reaſonable man would, or any ho<g ref="char:EOLhyphen"/>neſt man ſhould take an Oath; if it cannot ratio<g ref="char:EOLhyphen"/>nally be ſuppoſed that any rational body would promiſe, or ſwear to ruine and deſtroy themſelves, their lives and fortunes, it cannot be ſuppoſed that they would conſent to ſuch an <hi>Oath</hi> of <hi>Allegiance,</hi> as doth entirely oblige them to ſuffer themſelves and their Conſtitution to be ruined; and to be aſ<g ref="char:EOLhyphen"/>ſiſtant to it, and therefore the tacit condition of that Oath muſt be, provided that the Commands of their Superiour be according to Law, and he doth govern them by Law.</p>
+               <p>Again, if according to <hi>Forteſcue</hi> our <hi>Kings</hi> Rule not by <hi>Abſolute,</hi> but by <hi>Political Power,</hi> and there<g ref="char:EOLhyphen"/>fore <hi>cannot change their Laws,</hi> or <hi>invade the proper<g ref="char:EOLhyphen"/>ties of the Subject</hi> but by their conſent; if <hi>he be advanced to the Throne for the ſafety of his Sub<g ref="char:EOLhyphen"/>jects in their goods and bodies;</hi> if this be the diffe<g ref="char:EOLhyphen"/>rence betwixt an <hi>abſolute,</hi> and a <hi>political King,</hi> or <hi>King</hi> of <hi>England,</hi> that the Will of the firſt is his Law, but the Law is the Rule of the Will of the Second; the firſt can change the Laws of his King<g ref="char:EOLhyphen"/>dom without the peoples conſent, the ſecond can<g ref="char:EOLhyphen"/>not; the firſt may eaſily be a <hi>Tyrant,</hi> the ſecond cannot govern his people <hi>Tyrannically;</hi> and if from hence it follows, that a <hi>King</hi> ruling Arbitrarily, and Fundamentally overturning the Laws, is no ſuch King as our Conſtitution owns, or ever did admit of; and therefore that no <hi>Allegiance</hi> can be due to him by Law whom the Law knows not, nor ever
+<pb n="52" facs="tcp:51914:32"/>did ſuppoſe, but rather always did exclude: Then he who, being a <hi>Political King,</hi> makes himſelf abſo<g ref="char:EOLhyphen"/>lute, requiring in one of his <hi>Kingdoms</hi> to be obey<g ref="char:EOLhyphen"/>ed <hi>without reſerve,</hi> in another ſetting up <hi>Governors</hi> and <hi>Viceroys</hi> diſabled by Law to be ſo, in a third part of his <hi>Dominions</hi> virtually diſſolving all the Laws againſt <hi>Popery,</hi> by admitting a <hi>Pope's Nuncio,</hi> diſpenſing with the Laws, forbidding them the exerciſe of their <hi>Religion,</hi> and the taking upon them <hi>Offices Civil</hi> and <hi>Military,</hi> and by juſt conſequence, all the Laws of the <hi>Kingdom,</hi> by claiming an <hi>unli<g ref="char:EOLhyphen"/>mitted Power of Diſpenſing with them:</hi> He who was entred into a League with a <hi>Potent Monarch, to ſet up Popery and Arbitrary Power in</hi> England; he who was bound by the <hi>Principles</hi> of his <hi>Religion</hi> to deſtroy the <hi>Church</hi> of <hi>England,</hi> and to give up <hi>Proteſtants</hi> to ſuffer the puniſhment decreed againſt <hi>Hereticks</hi> by the <hi>Romiſh Church,</hi> and had begun to diſſolve her <hi>Colleges,</hi> and ſilence her <hi>Biſhops</hi> by an <hi>Illegal Arbitrary Commiſſion,</hi> and was ſo wholly given up to the will of the <hi>Jeſuits,</hi> that nothing elſe could be expected from him he certainly muſt be none of the <hi>Kings</hi> to which we ſwore <hi>Allegiance;</hi> and by refuſing to be a <hi>political King,</hi> the only <hi>King</hi> our Laws will own, he muſt have abſolved his Subjects from that <hi>Allegiance</hi> which is due only to ſuch a <hi>King:</hi> If <hi>Rebus ſic ſtantibus</hi> be, as the <hi>Reverend Biſhop Sanderſon</hi> ſaith, a condition of all Oaths; if the <hi>matter of the Oath muſt be then judged to ceaſe when things ſo change, that if the change could have been foreſeen, the Oath would not have been taken;</hi> then much more muſt the Obligation of it ceaſe, when ſo great a change is made as from a
+<pb n="53" facs="tcp:51914:32"/>
+                  <hi>political</hi> to an <hi>abſolute King,</hi> from a <hi>King</hi> ruling by Law, and protecting, the <hi>Church</hi> to a <hi>King</hi> ruling againſt Law, and ſubverting the <hi>Church</hi> againſt both his Oath, and Law.</p>
+               <p>The ſame learned <hi>Biſhop</hi> ſaith, That <hi>if a Soldier ſwears obedience to a General, or Commander of an Army, when he ceaſeth to be General, his Oath ceaſeth to oblige;</hi>
+                  <note place="margin">Si quis ergo miles juret Ob<g ref="char:EOLhyphen"/>ſequium belli Imperatori, fini<g ref="char:EOLhyphen"/>to demum bello, cum ipſe de<g ref="char:EOLhyphen"/>ſierit effe Imperator, non ultra tenetur ex juramento Obſequi<g ref="char:EOLhyphen"/>um ei praeſtare; &amp; ſi Pater ali<g ref="char:EOLhyphen"/>quis juraret ſe Teſtamentum in quo filium inſtituiſſet Haere<g ref="char:EOLhyphen"/>dem nunquam mutaturum com<g ref="char:EOLhyphen"/>perto tamen poſtea filium Hae<g ref="char:EOLhyphen"/>redem inſtitutum Patri vene<g ref="char:EOLhyphen"/>num miſcuiſſe, Pater non ultra tenetur juramento. <hi>Prael.</hi> 7. §. 7.</note> 
+                  <hi>and if a Father ſwear never to change his Will in which he hath made ſuch a Son his Heir, he is abſolved from that Oath, if his Son afterward endeavour to poiſon him, that an Oath to deliver a Sword binds not to deliver it to a mad man, who may</hi> deſtroy himſelf or me with it: <hi>And an Oath to marry a Woman binds not to do it, if ſhe prove with Child by another;</hi> why therefore ſhould an Oath of <hi>Allegiance</hi> made to a <hi>politick King,</hi> ruling by Law, bind us to pay that <hi>Allegiance</hi> to a <hi>King</hi> thus ruling <hi>Arbitrarily;</hi> he ceaſing as much to be that <hi>King</hi> we ſwore to, as a <hi>General</hi> plainly going about to deſtroy his Army ceaſeth to be their <hi>General,</hi> and being as much different from his former ſelf, as a <hi>Woman pregnant</hi> from a <hi>Virgin;</hi> and as like to be pernicious to the Government, as a Son attem<g ref="char:EOLhyphen"/>pting to poiſon his <hi>Father</hi> would be to him, or a <hi>Mad<g ref="char:EOLhyphen"/>man</hi> to them who ſhould give him a Sword; and all this ſeems plainly to be contained in thoſe excel<g ref="char:EOLhyphen"/>lent words of <hi>King James,</hi>
+                  <note place="margin">
+                     <hi>Fourth Speech at Witehall</hi> A D. 1609. p. 530, 531.</note> that <hi>the King was lex loquens, after a ſort, binding himſelf by a double Oath to the Obſervation of the Fundamental Laws of his Kingdom, tacitly AS BY BEING A KING, and ſo
+<pb n="54" facs="tcp:51914:33"/>bound to protect as well the People, as the Laws of his Kingdom, and expreſly by his Oath at his Coronati<g ref="char:EOLhyphen"/>on, ſo as every juſt King in a ſetled Kingdom</hi> IS BOUND TO OBSERVE THAT PACTION MADE TO HIS PEOPLE BY HIS LAWS, <hi>in framing his Government agreeably thereunto; and there<g ref="char:EOLhyphen"/>fore a King Governing in a ſetled Kingdom</hi> LEAVES TO BE KING, AND DEGENERATES INTO A TYRANT, <hi>as ſoon as he leaves off to rule according to his Laws:—Therefore all Kings that are not Tyrants, or purjured, will be glad to bound themſelves within the Limits of their Laws, and they that perſuade them to the contrary are</hi> VIPERS <hi>and</hi> PESTS, <hi>both againſt them, and the Common-wealth.</hi> Where it is granted,</p>
+               <p n="1">1. That there be <hi>Fundamental Laws of the King<g ref="char:EOLhyphen"/>dom.</hi> And</p>
+               <p n="2">
+                  <hi>2ly.</hi> That our <hi>Kings,</hi> even <hi>by being Kings,</hi> do <hi>tacitly bind themſelves to protect the People, and the Laws of their Kingdoms.</hi>
+               </p>
+               <p n="3">
+                  <hi>3ly.</hi> That the <hi>King makes a Paction with his People by his Laws,</hi> which Paction he is bound to ob<g ref="char:EOLhyphen"/>ſerve. And,</p>
+               <p n="4">
+                  <hi>4ly.</hi> That as ſoon as <hi>he leaves off to rule accord<g ref="char:EOLhyphen"/>ing to his Laws, HE LAVES TO BE A KING,</hi> and then certainly we muſt leave to be of right his Subjects, or to owe him <hi>Allegience.</hi> And though, even in this caſe I cannot yet approve of Subjects taking up <hi>Offenſive</hi> Arms againſt a <hi>King</hi> on this ac<g ref="char:EOLhyphen"/>count, becauſe I know not what power of Avenging
+<pb n="55" facs="tcp:51914:33"/>themſelves they have, or how the Sword is put into their hands to doe it, nor who hath made them Judges in their own cauſe, yet if Providence is pleaſed to ſend a <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, another <hi>Prince</hi> to free us from a King who hath thus violated his Com<g ref="char:EOLhyphen"/>pact, and not only thus <hi>leaves to be King,</hi> but doth it alſo by deſerting us, and ſo far <hi>abdicating the Government,</hi> which is our preſent caſe; then I am apt to think we may honeſtly accept of this deli<g ref="char:EOLhyphen"/>verance as being formerly abſolved <hi>de jure</hi> from our <hi>Allegiance</hi> to ſuch a <hi>King.</hi>
+               </p>
+               <p>And laſtly, let it be Obſerved that all our <hi>Kings</hi> if they were capable, were Crowned ſoon after their coming to the Throne, or the deceaſe of their <hi>Pre<g ref="char:EOLhyphen"/>deceſſors,</hi> the Ceremony till of late being only omitted in the caſe of <hi>Henry</hi> the <hi>Sixth,</hi> a Child of <hi>nine months old;</hi> that at their <hi>Coronation</hi> they gene<g ref="char:EOLhyphen"/>rally took their Oaths to <hi>preſerve their Peoples Rights and Liberties, and govern them by their Old and good Laws and Cuſtoms;</hi> and that they received <hi>Homage</hi> of their Subjects at the ſame time. That the uſual cuſtom was, and ſtill is, firſt, That they take their <hi>Coronation</hi> Oath, and then the <hi>Arch-Biſhop</hi> ask the People <hi>whether they be willing to ſub<g ref="char:EOLhyphen"/>ject themſelves, and pay their due Allegiance to a King ſo ſworn;</hi> That if any of them at their <hi>Coro<g ref="char:EOLhyphen"/>nation</hi> refuſed to promiſe theſe things, they endea<g ref="char:EOLhyphen"/>voured <hi>to hinder their Coronation</hi> till they had ſatiſ<g ref="char:EOLhyphen"/>faction in that point; that ſometimes the <hi>Biſhops,</hi> before their <hi>Coronation, acquaint the People with the Conſtitution of the King and Kingdom, how the King ſhould behave himſelf to them, and in what things
+<pb n="56" facs="tcp:51914:34"/>they were to obey him,</hi> on which the practice of the <hi>Biſhops</hi> in the caſe of <hi>Magna Charta,</hi> and <hi>Charta de Foreſtis,</hi> gives us a ſufficient Comment, ſometimes the <hi>Arch-Biſhop</hi> at their <hi>Coronation adjures them by God not to take the Crown upon them, unleſs they up<g ref="char:EOLhyphen"/>rightly intended to Obſerve their Oaths.</hi> Sometimes they promiſed <hi>Homage</hi> and <hi>Allegiance</hi> only <hi>condi<g ref="char:EOLhyphen"/>tionally,</hi> provided that their Laws might be gran<g ref="char:EOLhyphen"/>ted,<note place="margin">Of <hi>Hen.</hi> 1 <hi>M. Paris p.</hi> 38. Sub. rali igitur conventione ſupra<g ref="char:EOLhyphen"/>diſti Comites &amp; Barones jurave<g ref="char:EOLhyphen"/>runt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>channi Duci Normanniae <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> &amp; fideli ſervitium contra omnes homines. <hi>Annal.</hi> Mon. Burton. <hi>p.</hi> 257. M. Paris <hi>p.</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7.</note> and that <hi>the King would be true to his engagements,</hi> as in the caſe of <hi>Henry</hi> the <hi>firſt,</hi> and of <hi>King John.</hi> Sometimes upon the attempts of their King's wholly to violate their <hi>Rights,</hi> Liberties, and Properties, they <hi>give themback their Homage, and reſign it to them, and declare themſelves no longer obliged to it, nor guilty if they do not pay it:</hi> So that if there were no ſuch evidence of a contract as we have given, if the na<g ref="char:EOLhyphen"/>ture of a <hi>Political Government</hi> did not require, and ſuppoſe it, If<note n="*" place="margin">Liguntia eſt vinculum ar<g ref="char:EOLhyphen"/>ctius inter ſubditum &amp; Regem utroſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> invicem connectens, hunc ad protectionem &amp; Juſtum Re<g ref="char:EOLhyphen"/>gimen, illum adtribute &amp; Juſ<g ref="char:EOLhyphen"/>tum Subjectionem. <hi>Gloſſar.</hi>
+                  </note> Sir <hi>H. Spelman</hi> had not ſo expreſly ſaid, that <hi>the Oath of Alle<g ref="char:EOLhyphen"/>giance is reciprocal betwixt King and Subject,</hi> yet theſe things plainly ſeen to prove the Oath of <hi>Allegiance</hi> is, or was at leaſt by our <hi>Fore fathers</hi> thought to be reciprocal and if ſo; then have the generallity of <hi>Caſuiſts</hi> plainly determined, that it muſt ceaſe on the one part, when the very ſubſtance of it is plain<g ref="char:EOLhyphen"/>ly and perſeveringly violated on the other: For both<note n="*" place="margin">Cum aliquid promi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>um eſt ob cauſam quae ſubeſſe putubatur, &amp; non ſubeſt, ut ſi juraveris te facturum aliquid eo quod be<g ref="char:EOLhyphen"/>neficium aliquod te in petraturum ſperabas, quod tamen non impetras, tunc ad implendum promiſum non teneris, quia conditio illa tacitè in Juramento fuit incluſa, ſi beneficium impetravero, conditione autem non impletâ, promiſſio ipſa, licet jurata, obliga<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ldwin <hi>de Caſ. Conſc. l.</hi> 2. <hi>c.</hi> 9. <hi>Caſ</hi> 17. <hi>Rivet explic. Decal. p.</hi> 131, <hi>Mr.</hi> Tombs <hi>le<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> 18. <hi>p.</hi> 123, 124. <hi>Bp.</hi> Sanderſon <hi>de juram. praelect.</hi> 4. § 8. <hi>p.</hi> 99.</note> 
+                  <hi>Papiſts</hi> and <hi>Proteſtants</hi> unanimouſly agree
+<pb n="57" facs="tcp:51914:34"/>in this, that when an Oath is reciprocal, or condi<g ref="char:EOLhyphen"/>tional, if one part break the Covenant, and vio<g ref="char:EOLhyphen"/>late the condition, the other is free from the Obli<g ref="char:EOLhyphen"/>gation of the Oath: For as a <hi>conditional Propoſi<g ref="char:EOLhyphen"/>tion,</hi> ſay <hi>Logicians, puts nothing in being,</hi> but when the condition is put, it becomes abſolute; ſo a con<g ref="char:EOLhyphen"/>ditional Obligation becomes then only abſolute, when, and whilſt the condition is put, and there<g ref="char:EOLhyphen"/>fore ceaſeth when it is removed. Beſides, the En<g ref="char:EOLhyphen"/>gagement on the one ſide would not have been, without the engagement on the other; and there<g ref="char:EOLhyphen"/>fore the performance of it muſt depend on the per<g ref="char:EOLhyphen"/>formance of the other. And 3ly, Otherwiſe theſe Oaths would ſerve only for a ſnare to honeſt men, as <hi>v. g.</hi> 
+                  <q rend="margQuotes">Put the caſe the Governors of two Ar<g ref="char:EOLhyphen"/>mies mutually ſwear not to fight in ſo many days, if one party breaking his Oath, and fighting, the other be obliged by his Oath not to fight, it would be all one as if he had ſworn to deliver up himſelf, and his Army to be butchered; which is contrary to the law of Nature:</q> So in like manner, if a <hi>King</hi> hath ſo far violated his Oath, as to ſet himſelf directly to overthrow thoſe Laws, and to deſtroy that <hi>Church</hi> he bound himſelf by Oath to defend; If he hath not only engaged himſelf in a <hi>Religion,</hi> which binds him upon pain of damnation to overthrow all the Laws made to keep it out, and to give up all his Subjects to ſuffer all the puniſhments decreed by the <hi>Roman Church</hi> againſt <hi>Hereticks,</hi> that is, <hi>the loſs of Goods and Life;</hi> If he hath entred into a League with another <hi>potent Monarch to ſet up Popery, and Arbitary Government</hi> in <hi>England,</hi> and yet his Subjects muſt be obliged
+<pb n="58" facs="tcp:51914:35"/>to bear Allegiance to him by virtue of their <hi>Oaths;</hi> then muſt they be enſnared ſo far by them, as to deliver up their Laws and <hi>Church</hi> to be deſtroyed, if not to aſſiſt their <hi>Prince</hi> in doing of it.</p>
+               <p>I am not ignorant that <hi>Biſhop Sanderſon</hi> puts the caſe thus,<note place="margin">Rex aliquis ſimpliciter, &amp; ci<g ref="char:EOLhyphen"/>tra reſpectum ad fidelitatem ſubditorum, jurat ſe Regnum adminiſtraturum juſtè, &amp; ſe<g ref="char:EOLhyphen"/>cundùm Leges, ſubdui alio tem<g ref="char:EOLhyphen"/>pore ſimpliciter, &amp; citra re<g ref="char:EOLhyphen"/>ſpectùm ad Principis Officium, jurant ſe ei debitam fidelita<g ref="char:EOLhyphen"/>tem, &amp; obedientiam praeſtitu<g ref="char:EOLhyphen"/>ros, utri<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> obligantur quod ſui eſt Officii fideliter facere, etſi defecerit altera pars à ſuo Of<g ref="char:EOLhyphen"/>ficio, ita ut ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Rex ſolutus ſit ſuo juramento, ſi ſubditi debi<g ref="char:EOLhyphen"/>tum Obſequium non praeſtite<g ref="char:EOLhyphen"/>rent, nec ſubditi ſuo, ſi Rex à juſtitiae tramite deflexerit. <hi>De juramento prael.</hi> 4. §. 8. <hi>p.</hi> 100.</note> 
+                  <hi>A King one time ſwears ſimply, and without reſpect to the fidelity of his Subjects, to govern the Kingdom juſtly, and according to the Laws; the Subjects at another time ſimply, AND WITHOUT RE<g ref="char:EOLhyphen"/>SPECT TO THE PRINCE'S D<g ref="char:V">Ʋ</g>TY, ſwear to yield him due Fi<g ref="char:EOLhyphen"/>delity, and Obedience, they are both obliged faithfully to doe what is their duty, though the other party fail of his; ſo that neither is the King abſolved from his Oath, if the Sub<g ref="char:EOLhyphen"/>jects do not yield him their due obedi<g ref="char:EOLhyphen"/>ence, nor are the Subjects abſolved from their duty, though the King deviate from the way of Juſtice.</hi> By this deciſion I was a long time diverted from ever thinking that the Oath of <hi>Allegi<g ref="char:EOLhyphen"/>ance</hi> was Reciprocal, or made by the Subject with reſpect to the Duty, or the Oath of the <hi>King,</hi> or the nature of our <hi>Kingly Government,</hi> though upon peruſal of our <hi>Hiſtories</hi> I find that all our <hi>Anceſtors</hi> thought otherwiſe, or at leaſt acted as if they really believed the Oath was reciprocal, and made with reſpect to the Obligation which was upon their <hi>Sovereign, tacitly as by being a King, and expreſly by his Oath at his Coronation, to protect as well as the People as
+<pb n="59" facs="tcp:51914:35"/>the Laws of the Kingdom.</hi> Nor is there any thing in theſe words, beſides the <hi>Authority</hi> of that great man, to ſhew the contrary. For,</p>
+               <p n="1">1. When the <hi>King</hi> ſwears to protect his People, this ſure doth not oblige him to protect an <hi>Out-Law,</hi> or a <hi>Rebel;</hi> 'tis therefore plain, that this part of the Oath reſpecteth the fidelity of his Peo<g ref="char:EOLhyphen"/>ple.</p>
+               <p n="2">2. Whereas he ſaith, <hi>the King ſimply, and without reſpect to the fidelity of his Subjects, ſwears to govern the Kingdom juſtly, and according to the Laws,</hi> 'tis very reaſonable he ſhould do ſo; becauſe he is a <hi>King</hi> only by, and according to the Laws, and becauſe the Laws have provided him a remedy a<g ref="char:EOLhyphen"/>gainſt the undultifulneſs of any of his Subjects: If any particular Subject offend againſt his <hi>Govern<g ref="char:EOLhyphen"/>ment,</hi> he can puniſh him by Law; if any number of them prove <hi>Rebels,</hi> he can cut them off by Law; if all of them prove ſo, when he hath power ſuf<g ref="char:EOLhyphen"/>ficient he hath them all at his mercy by Law, and they have forfeited both Lives and Fortunes to him, and what could he deſire more? Whereas, if the Subject be bound to yield <hi>Allegiance</hi> to the <hi>King,</hi> though he deviate never ſo much from the way of Juſtice, though he uſurps as much upon their Lives and Fortunes, without their violation of the Law, as if they were the worſt of <hi>Rebels,</hi> they are left in a very deplorable condition, nor is it any advantage to them that they have <hi>fundamental Laws</hi> by which they ought to be governed, or that the <hi>Government is Political</hi> and tyed to the obſervance
+<pb n="60" facs="tcp:51914:36"/>of the Laws, and not abſolute, or that the <hi>Gover<g ref="char:EOLhyphen"/>nor</hi> is ſworn to rule according to Law, ſeeing upon his Sup oſition, they are as much enſlaved by their Oath of <hi>Allegiance,</hi> as they could be, were their <hi>King</hi> abſolute, tied to no Oaths or Laws, but free to deal with them at his pleaſure.</p>
+               <p>Nor doth it alter the caſe at all, that the <hi>King</hi> ſwears to govern by Law <hi>at one time,</hi> and many of them ſwear <hi>Allegiance at another:</hi> For beſides what I have ſhewed, that the cuſtom antiently was, and ſtill is, at <hi>the very time of his taking his Coronation Oath, for the Subjects to declare their acceptation of him, thereupon as their King, and for ſome of all Or<g ref="char:EOLhyphen"/>ders to doe him immediate Homage in the name of the Reſt,</hi> which ſeem to be evident marks of <hi>Stipula<g ref="char:EOLhyphen"/>tion,</hi> and <hi>Mutual</hi> Engagement: I ſay, beſides this it ſeems not at all material to the buſineſs, when the Oath is taken, provided that the Ground, Rea<g ref="char:EOLhyphen"/>ſon, and Foundation, or chief Motive of it, whenſo<g ref="char:EOLhyphen"/>ever it be taken, is the aforeſaid contract of the <hi>King</hi> to govern them by Law, either already made, or at his <hi>Coronation</hi> to be made.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
